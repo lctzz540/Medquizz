@@ -1,0 +1,1397 @@
+[
+    {
+        "question_group_text": "Bn nam 45 tuổi, biểu hiện đau bụng lâu ngày, chân tay lạnh, đại tiện táo kết, lỵ lâu ngày, rêu lưỡi trắng, mạch trầm trì, vàng da. Nhập viện BV YHCT TP.HCM.",
+        "ques": [
+            {
+                "questionText": " BN này có biểu hiện của",
+                "answerOptions": [
+                    {
+                        "answerText": "Dương minh phủ thực",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tỳ dương bất túc",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Trường vị táo nhiệt",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Âm hư",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 15
+            },
+            {
+                "questionText": " Chỉ định cho BN này",
+                "answerOptions": [
+                    {
+                        "answerText": "Đại thừa khí thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ôn tỳ thang",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Đại hòang phụ tử thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ma tử nhân hòan",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 16
+            },
+            {
+                "questionText": " Quân dược bài thuốc trên có tác dụng ",
+                "answerOptions": [
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "ôn tráng Tỳ dương, ôn tán hàn ngưng",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Tỳ nhuận táo, hoạt trường thông tiện",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "nhuận táo, giáng Phế khí để thông tiện",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 17
+            },
+            {
+                "questionText": " Thần dược bài thuốc trên có thể là",
+                "answerOptions": [
+                    {
+                        "answerText": "Mang tiêu",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Đại hoang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Đào nhân",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Hạnh nhân",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 18
+            },
+            {
+                "questionText": " Can khương trong bài thuốc trên có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "giang Phế khí,",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Nhuận trường, hoạt huyết tán kết",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "hàn tả nhiệt, nhuyễn kiên nhuận táo thông đại tiện",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "trợ Phụ tử ôn Tỳ dương để tán hàn",
+                        "isCorrect": true
+                    }
+                ],
+                "questionID": 19
+            },
+            {
+                "questionText": " Dưỡng huyết nhuận táo là công dụng của vị thuốc nào trong bài thuốc trên",
+                "answerOptions": [
+                    {
+                        "answerText": "Nhân sâm",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Cam thảo",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Mang tiêu",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Đương quy",
+                        "isCorrect": true
+                    }
+                ],
+                "questionID": 20
+            },
+            {
+                "questionText": " Sau khi dùng bài thuốc được 1 thang, BN kèm nôn mừa. Có thể gia thêm vị thuốc nào cho bài thuốc",
+                "answerOptions": [
+                    {
+                        "answerText": "Nhục quế",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Nhân trần",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Sa nhân",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Chi tử",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 21
+            },
+            {
+                "questionText": " Nếu bệnh nhân có kèm đau bụng thì gia thêm vị thuốc nào cho bài thuốc",
+                "answerOptions": [
+                    {
+                        "answerText": "Bán hạ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Sa nhân",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chi tử",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Mộc hương",
+                        "isCorrect": true
+                    }
+                ],
+                "questionID": 22
+            },
+            {
+                "questionText": " Có thể thêm vị thuốc nào để cải thiện vàng da cho BN",
+                "answerOptions": [
+                    {
+                        "answerText": "Nhục quế",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Mộc hương",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chi tử",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Bán hạ",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 23
+            }
+        ]
+    },
+    {
+        "question_group_text": "BN nữ, 35 tuổi, nhập viện vì Sốt cao, nói sảng, ra mồ hôi, lưỡi đỏ, rêu vàng nhầy nhớt, bụng trướng dầy, không đại tiện được, cơ thể nặng nề. BN nhập viện BV YHCT TPHCM",
+        "ques": [
+            {
+                "questionText": " BN có biểu hiện của",
+                "answerOptions": [
+                    {
+                        "answerText": "Dương minh phủ thực kèm thấp nhiệt ",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Tỳ dương bất túc",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Trường vị táo nhiệt",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Âm hư",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 24
+            },
+            {
+                "questionText": " Chỉ định thang thuốc cho BN",
+                "answerOptions": [
+                    {
+                        "answerText": "Đại thừa khí thang",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Ôn tỳ thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Đại hòang phụ tử thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ma tử nhân hòan",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 25
+            },
+            {
+                "questionText": " Có thể thêm vị thuốc nào cải thiện tình trạng sốt cao của BN",
+                "answerOptions": [
+                    {
+                        "answerText": "Ngân, Kiều",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Hoàng liên",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Cam thảo",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Hậu phác",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 26
+            },
+            {
+                "questionText": " Có thể thêm vị thuốc nào cải thiện tình trạng thấp nhiệt cho BN",
+                "answerOptions": [
+                    {
+                        "answerText": "Ngân, Kiều",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Hoàng liên",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Cam thảo",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Hậu phác",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 27
+            },
+            {
+                "questionText": " Quân dược bài thuốc này có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "giang Phế khí,",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Nhuận trường, hoạt huyết tán kết",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ ",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "trợ Phụ tử ôn Tỳ dương để tán hàn",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 28
+            },
+            {
+                "questionText": " Thần dược bài thuốc này có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "hàn tả nhiệt, nhuyễn kiên nhuận táo thông đại tiện ",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Nhuận trường, hoạt huyết tán kết",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "trợ Phụ tử ôn Tỳ dương để tán hàn",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 29
+            },
+            {
+                "questionText": " Chỉ thực, Hậu phác trong bài thuốc này (nếu có), có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "phá khí tán kết, tiêu tích trừ “bĩ”; hành khí tán “mãn”",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "dưỡng huyết nhuận táo",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "trợ Quân dược ôn Tỳ dương để tán hàn",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 30
+            }
+        ]
+    },
+    {
+        "question_group_text": "BN nam, 30 tuổi, biểu hiện tiện khô kết, ngực bụng bĩ trướng, lưỡi đỏ, rêu vàng khô, lười nói, hơi thở yếu, da dẻ xanh xao. BN nhập viện BV YHCT TPHCM",
+        "ques": [
+            {
+                "questionText": " BN có biểu hiện của ",
+                "answerOptions": [
+                    {
+                        "answerText": "Dương minh phủ thực kèm thấp nhiệt ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tỳ dương bất túc",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Trường vị táo nhiệt kèm khí huyết hư suy",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Âm hư",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 31
+            },
+            {
+                "questionText": " Bài thuốc chỉ định cho BN",
+                "answerOptions": [
+                    {
+                        "answerText": "Đại thừa khí thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ôn tỳ thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Đại hòang phụ tử thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ma tử nhân hoan",
+                        "isCorrect": true
+                    }
+                ],
+                "questionID": 32
+            },
+            {
+                "questionText": " Cần gia thêm vị thuốc nào để cải thiện triệu chứng da dẻ xanh xao cho BN",
+                "answerOptions": [
+                    {
+                        "answerText": "Hoa hòe",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chỉ xác",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Đương quy",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Bạch truật",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 33
+            },
+            {
+                "questionText": " Có thể gia thêm vị thuốc nào để cải thiện triệu chứng lười nói, hơi thở yếu của BN",
+                "answerOptions": [
+                    {
+                        "answerText": "Thục địa",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Hoa hòe",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Hậu phác",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Nhân sâm, Hoàng ký",
+                        "isCorrect": true
+                    }
+                ],
+                "questionID": 34
+            },
+            {
+                "questionText": " Nếu BN có đi cầu phân máu, có thể gia thêm vị thuốc nào cho BN",
+                "answerOptions": [
+                    {
+                        "answerText": "Thục địa",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Hoa hòe",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Hậu phác",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Nhân sâm, Hoàng ký",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 35
+            },
+            {
+                "questionText": " Quân dược của bài thuốc gốc có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "tư Tỳ nhuận táo, hoạt trường thông tiện",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "nhuận táo, giáng Phế khí để thông tiện",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "ôn dương tán hàn để tuyên thông hàn tích",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 36
+            },
+            {
+                "questionText": " Hạnh nhân của bài thuốc gốc có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "giáng phế khí, nhuận trường ",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "dưỡng âm sinh tân",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "thông tiện, tả trừ tích trệ ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 37
+            },
+            {
+                "questionText": " Sứ dược cho bài thuốc này là",
+                "answerOptions": [
+                    {
+                        "answerText": "Cam thảo",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Mật ong",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Sinh khương",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Đại táo",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 38
+            }
+        ]
+    },
+    {
+        "question_group_text": "BN nữ 38 tuổi, biểu hiện táo bón, đau bụng, tay chân lạnh, lưỡi trắng dính, mạch trầm huyền khẩn, bụng đầy trướng. BN nhập viện BV YHCT TPHCM",
+        "ques": [
+            {
+                "questionText": " BN này có biểu hiện của",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng âm hư nhiệt kết",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng thực hàn tích trệ kèm khí trệ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng Tỳ dương bất túc, hàn tích tắc trệ",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Chứng nhiệt kết Dương minh, khí huyết bất túc",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 39
+            },
+            {
+                "questionText": " Chỉ định bài thuốc cho BN",
+                "answerOptions": [
+                    {
+                        "answerText": "Đại hoàng phụ tử thang",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Ngũ nhân hoan",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tăng dịch thừa khí thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Hoàng long thang",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 40
+            },
+            {
+                "questionText": " Có thể gia thêm vị thuốc nào cải thiện triệu chứng đầy trướng bụng cho BN",
+                "answerOptions": [
+                    {
+                        "answerText": "Bạch thược",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Đại hoang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Mộc hương",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Cam thảo",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 41
+            },
+            {
+                "questionText": " Quân dược bài này có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "tư Tỳ nhuận táo, hoạt trường thông tiện",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "nhuận táo, giáng Phế khí để thông tiện",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "ôn dương tán hàn để tuyên thông hàn tích",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 42
+            },
+            {
+                "questionText": " Thần dược bài này là vị thuốc",
+                "answerOptions": [
+                    {
+                        "answerText": "Phụ tử",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Đại hoang",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Mang tiêu",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Bá tử nhân",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 43
+            },
+            {
+                "questionText": " Thần dược bài thuốc này có công dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "Nhuận trường, hoạt huyết tán kết ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "nhuận táo, giáng Phế khí để thông tiện",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "thông tiện, tả trừ tích trệ ",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 44
+            },
+            {
+                "questionText": " Tá dược bài thuốc này",
+                "answerOptions": [
+                    {
+                        "answerText": "Đương quy",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chỉ thực",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Hậu phác",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tế tân",
+                        "isCorrect": true
+                    }
+                ],
+                "questionID": 45
+            },
+            {
+                "questionText": " Công dụng của Tá dược bài thuốc này",
+                "answerOptions": [
+                    {
+                        "answerText": "dưỡng huyết nhuận táo",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "ôn tán hàn tà, thông tý chỉ thống",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "hanh khí tán “mãn",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "nhuận ngũ tạng",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 46
+            }
+        ]
+    },
+    {
+        "question_group_text": "BN nữ 33 tuổi, biểu hiện tiện khô kết, khó ra, miêng khô khát, lưỡi khô, rêu ít",
+        "ques": [
+            {
+                "questionText": " BN này có biểu hiện của",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng tiện bị do tổn thương tân dịch ",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Chứng thực hàn tích trệ kèm khí trệ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng Tỳ dương bất túc, hàn tích tắc trệ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng nhiệt kết Dương minh, khí huyết bất túc",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 47
+            },
+            {
+                "questionText": " Chỉ định cho BN này",
+                "answerOptions": [
+                    {
+                        "answerText": "Đại hoàng phụ tử thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ngũ nhân hoan",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Tăng dịch thừa khí thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Hoàng long thang",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 48
+            },
+            {
+                "questionText": " Quân dược của bài thuốc này có công dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "Nhuận trường, hoạt huyết tán kết ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "nhuận táo, giáng Phế khí để thông tiện",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "thông tiện, tả trừ tích trệ ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 49
+            },
+            {
+                "questionText": " Thần dược bài thuốc này có công dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "Nhuận trường, hoạt huyết tán kết ",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "nhuận táo, giáng Phế khí để thông tiện",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "thông tiện, tả trừ tích trệ ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 50
+            },
+            {
+                "questionText": " Trần bì dùng trong bài thuốc này có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "Bổ Tỳ ích khí",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ích khí dưỡng huyết",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tiêu tích trừ bĩ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Lý khí hành trệ",
+                        "isCorrect": true
+                    }
+                ],
+                "questionID": 51
+            },
+            {
+                "questionText": " Bài thuốc Nhuận trường hoàn có công dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "nhuận trường thông tiện, hoạt huyết trừ phong",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "nhuận trường thông tiện, tư âm tăng dịch",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "nhuận trường thông tiện, ích khí dưỡng huyết",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "nhuận trường thông tiện, ôn bổ tỳ dương",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 52
+            }
+        ]
+    },
+    {
+        "question_group_text": "BN nữ, 60 tuổi biểu hiện đại tiện khó, phân khô cứng, miệng khô, môi nứt, lưỡi đỏ sẫm, rêu vàng, mạch tế sác",
+        "ques": [
+            {
+                "questionText": " BN này có biểu hiện của",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng tiện bị do âm hư nhiệt kết",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Chứng thực hàn tích trệ kèm khí trệ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng Tỳ dương bất túc, hàn tích tắc trệ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng nhiệt kết Dương minh, khí huyết bất túc",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 53
+            },
+            {
+                "questionText": " Chỉ định cho BN này",
+                "answerOptions": [
+                    {
+                        "answerText": "Đại hoàng phụ tử thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ngũ nhân hoan",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tăng dịch thừa khí thang",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Hoàng long thang",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 54
+            },
+            {
+                "questionText": " Quân dược bài thuốc này có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "Nhuận trường, hoạt huyết tán kết ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "tư âm thanh nhiệt, nhuận táo thông tiện ",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "thông tiện, tả trừ tích trệ ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 55
+            },
+            {
+                "questionText": " Thần dược bài thuốc này có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "giang Phế khí,",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "dưỡng âm sinh tân ",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "trợ Phụ tử ôn Tỳ dương để tán hàn",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 56
+            },
+            {
+                "questionText": " Đại hoang dùng trong bài thuốc có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "giang Phế khí,",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Nhuận trường, hoạt huyết tán kết",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Thông tiện, tiết nhiệt",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "trợ Phụ tử ôn Tỳ dương để tán hàn",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 57
+            },
+            {
+                "questionText": " Mang tiêu dùng trong bài thuốc có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "giang Phế khí,",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Nhuyễn kiên, tán kết",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "trợ Phụ tử ôn Tỳ dương để tán hàn",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 58
+            }
+        ]
+    },
+    {
+        "question_group_text": "BN nam, 70 tuổi, biểu hiện đi ngoài toàn nước trong, có lúc đại tiện bí kết, bụng đầy trướng, đau cự án, miệng khát, nói sảng, tinh thần mê mang, tay chân lạnh, miệng lưỡi khô, rêu lưỡi vàng xam, mạch hư",
+        "ques": [
+            {
+                "questionText": " Chỉ định cho BN này",
+                "answerOptions": [
+                    {
+                        "answerText": "Đại hoàng phụ tử thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ngũ nhân hoan",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tăng dịch thừa khí thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Hoàng long thang",
+                        "isCorrect": true
+                    }
+                ],
+                "questionID": 60
+            },
+            {
+                "questionText": " Quân dược của bài thuốc này có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "tả nhiệt thông tiện, tẩy rửa Trường vị ",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Nhuyễn kiên, tán kết",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "trợ Phụ tử ôn Tỳ dương để tán hàn",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 61
+            },
+            {
+                "questionText": " Thần dược bài thuốc có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "tả nhiệt thông tiện, tẩy rửa Trường vị ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Nhuyễn kiên, tán kết nhuận trường thông tiện",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "trợ Phụ tử ôn Tỳ dương để tán hàn",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 62
+            },
+            {
+                "questionText": " Chỉ thực, Hậu phác trong bài thuốc có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "Nhuận trường, hoạt huyết tán kết ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "tư âm thanh nhiệt, nhuận táo thông tiện ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "hanh khí tán kết, trừ tích trệ",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 63
+            },
+            {
+                "questionText": " Nhân sâm, Đương quy trong bài thuốc có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "tư Tỳ nhuận táo, hoạt trường thông tiện",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "nhuận táo, giáng Phế khí để thông tiện",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "ích khí dưỡng huyết",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 64
+            },
+            {
+                "questionText": " Cát cánh trong bài thuốc có tác dụng ",
+                "answerOptions": [
+                    {
+                        "answerText": "tuyên phế khí , lợi Đại trường",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "nhuận táo, giáng Phế khí để thông tiện",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "thông tiện, tả trừ tích trệ ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 65
+            }
+        ]
+    },
+    {
+        "question_group_text": "BN nam 35 tuổi, sau 3 ngày thu hoạch gặt lúa ngoài đồng vào trời nắng gắt về thì có các triệu chứng sau: sốt cơn, nói sảng, đại tiện không thông, bụng trướng đầy, đau tức, đè vào thì rắn, miệng khô, họng khát, rêu lưỡi vàng dày, mạch trầm hữu lực",
+        "ques": [
+            {
+                "questionText": " Bài thuốc có thể sử dụng là",
+                "answerOptions": [
+                    {
+                        "answerText": "Đại thừa khí thang",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Ôn tỳ thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Hoàng long thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ma tử nhân hoan",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 66
+            },
+            {
+                "questionText": " Trong bài thuốc này vị thuốc làm Quân là",
+                "answerOptions": [
+                    {
+                        "answerText": "Mang tiêu",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Hậu phác",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Đại hoang",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Chỉ thực",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 67
+            },
+            {
+                "questionText": " Vị thuốc làm Quân có công dụng ",
+                "answerOptions": [
+                    {
+                        "answerText": "Hành khí tán mãn",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Nhuyễn kiên, tán kết",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "hàn tiết nhiệt, thanh trừ Trường vị tích trệ ",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "trợ Phụ tử ôn Tỳ dương để tán hàn",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 68
+            }
+        ]
+    },
+    {
+        "question_group_text": "BN nữ 65 tuổi nhiều năm nay ăn uống không tiêu, hay đau bụng, lạnh bụng, tiêu chảy khi ăn đồ ăn sống lạnh đến khám với các triệu chứng sau: đau quặn bụng dưới rốn, xoa bóp, thoa dầu quanh rốn thấy dễ chịu hơn, đại tiện bí, sợ lạnh, chân tay lạnh, rêu lưỡi trắng, mạch trầm huyền.",
+        "ques": [
+            {
+                "questionText": " Bài thuốc có thể sử dụng là",
+                "answerOptions": [
+                    {
+                        "answerText": "Đại thừa khí thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ôn tỳ thang",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Hoàng long thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ma tử nhân hoan",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 69
+            },
+            {
+                "questionText": " Bài thuốc trên thuộc nhôm",
+                "answerOptions": [
+                    {
+                        "answerText": "Hàn hạ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Nhuận hạ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ôn hạ",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Công bổ kiêm thi",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 70
+            },
+            {
+                "questionText": " Công dụng của bài thuốc trên là để trị",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng tiện bị do âm hư nhiệt kết",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng thực hàn tích trệ kèm khí trệ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng Tỳ dương bất túc, hàn tích tắc trệ",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Chứng nhiệt kết Dương minh, khí huyết bất túc",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 71
+            },
+            {
+                "questionText": " Trong bài  thuốc trên, vị thuốc làm Quân là",
+                "answerOptions": [
+                    {
+                        "answerText": "Can khương",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Nhân sâm",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Cam thảo",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Phụ tử",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Tình huống lâm sang cho câu 73, 74, 75, 76",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "BN nữ 60 tuổi, đến khám với các triệu chứng sau: đại tiện bí kết, tiểu tiện đi luôn và nhiều, lưỡi đỏ, rêu vàng khô.",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 72
+            },
+            {
+                "questionText": " Bài thuốc có thể sử dụng là",
+                "answerOptions": [
+                    {
+                        "answerText": "Đại thừa khí thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ôn tỳ thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Hoàng long thang",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Ma tử nhân hoan",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 73
+            },
+            {
+                "questionText": " Chỉ định của bài thuốc trên là ",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng tiện bị do âm hư nhiệt kết",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng thực hàn tích trệ kèm khí trệ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng Trường vị táo nhiệt, Tỳ tân bất túc",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng nhiệt kết Dương minh, khí huyết bất túc",
+                        "isCorrect": true
+                    }
+                ],
+                "questionID": 74
+            },
+            {
+                "questionText": " Trong bài thuốc trên, vị thuốc làm Quân là",
+                "answerOptions": [
+                    {
+                        "answerText": "Hạnh nhân",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Bạch thược",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ma tử nhân",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Đại hoang",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 75
+            },
+            {
+                "questionText": " Trong bài thuốc trên, vị thuốc có tác dụng nhuận trường thông tiện là ",
+                "answerOptions": [
+                    {
+                        "answerText": "Bán hạ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Bạch thược",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ma tử nhân",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Đại hoang",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 76
+            }
+        ]
+    }
+]

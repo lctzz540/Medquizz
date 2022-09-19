@@ -1,0 +1,144 @@
+[
+    {
+        "question_group_text": "BN nam, 40 tuổi, làm công nhân vệ sinh môi trường, hay quét rác vào ban\nđêm trong thời tiết gió lạnh, 1 tuần gần đây BN đau đầu, đau mỏi cơ, sốt cao 39 độ có sử dụng thuốc hạ sốt tại nhà. BN đến khám tại BV. YHCT ghi nhận sốt, đau đầu, ra mồ hôi, sợ gió, mạch phù hoãn.",
+        "ques": [
+            {
+                "questionText": " Phương thuốc điều trị phù hợp cho BN",
+                "answerOptions": [
+                    {
+                        "answerText": "Ma hòang thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Quế chi thang",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Tiểu thanh long thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ngân kiều tán",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 135
+            },
+            {
+                "questionText": " Vị thuốc làm quân phối ngũ với Cam thảo có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "Tuyên giáng phế khí, tăng lực bình suyễn",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tán hàn hoá ẩm, chỉ khái bình suyễn",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Phát hãn tán hàn mạnh",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tân cam hoá dương để trợ dương thực vệ",
+                        "isCorrect": true
+                    }
+                ],
+                "questionID": 136
+            },
+            {
+                "questionText": " Vị thuốc làm thần có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "Tán hàn, giải cơ phát biểu, ôn thông kinh lạc.",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Phát hãn tán hàn, tuyên phế bình suyễn.",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tư dưỡng dinh âm, thu liễm âm dịch.",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Giáng lợi phế khí, chỉ khái bình suyễn.",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 137
+            }
+        ]
+    },
+    {
+        "question_group_text": "BN nữ, 45 tuổi, dạo gần đây vì tính chất công việc nên BN thường xuyên ra\nngoài không may bị cảm nhiễm phong nhiệt, tối hôm đó BN sốt cao 38 độ, sợ lạnh ít, không cần đắp chăn, đau họng, miệng khát kèm ho. Khám thấy họng sưng đỏ, lưỡi đỏ, rêu vàng mỏng, mạch phù sác",
+        "ques": [
+            {
+                "questionText": " Phương thuốc phù hợp là",
+                "answerOptions": [
+                    {
+                        "answerText": "Tang cúc ẩm",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ngân kiều tán",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Ma hạch thạch cam thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Bài độc tán",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 138
+            },
+            {
+                "questionText": " Chủ trị của phương thuốc trên",
+                "answerOptions": [
+                    {
+                        "answerText": "Ôn bệnh thời kỳ đầu.",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Phong Ôn thời kỳ đầu, tà thương phế lạc.",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ho suyễn do biểu tà hoá nhiệt, tắc nghẽn ở phế",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ngoại cảm phong hàn thấp, trong có uẩn nhiệt.",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 139
+            },
+            {
+                "questionText": " Trong phương thuốc trên vị thuốc có vai trò là quân là",
+                "answerOptions": [
+                    {
+                        "answerText": "Bạc hà, Kinh giới",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Kinh giới, Trúc diệp",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Liên kiều, Kim ngân hoa",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Cát cánh, Đạm đậu xị",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 140
+            }
+        ]
+    }
+]

@@ -1,0 +1,682 @@
+[
+    {
+        "questionText": " BN này có biểu hiện của",
+        "answerOptions": [
+            {
+                "answerText": "Biểu tà ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Lý nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Cả 2 đều đúng",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Cả 2 đều sai",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 10
+    },
+    {
+        "questionText": " Pháp trị cho BN này",
+        "answerOptions": [
+            {
+                "answerText": "Giải biểu thanh lý",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tán hàn giải biểu, ôn trung hóa đàm, hoạt huyết tiêu tích",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hòa giải Thiếu dương, tả hạ nhiệt kết",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sơ phong giải biểu, tả nhiệt thông tiện",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 11
+    },
+    {
+        "questionText": " Bài thuốc nên chỉ định cho BN là",
+        "answerOptions": [
+            {
+                "answerText": "Cát căn hoàng cầm hoàng liên thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Ngũ tích tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đại sài hồ thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Phòng phong thông thánh tán",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 12
+    },
+    {
+        "questionText": " Vị thuốc làm Quân dược trong bài thuốc trên là",
+        "answerOptions": [
+            {
+                "answerText": "Cát căn",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Hoàng cầm",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hoàng liên",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Cam thảo chích",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 13
+    },
+    {
+        "questionText": " Công dụng nào không phải của vị thuốc trên",
+        "answerOptions": [
+            {
+                "answerText": "Thanh nhiệt giải cơ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sinh tân chỉ khát",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thăng phát khí Tỳ Vị",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Điều hòa các vị thuốc",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 14
+    },
+    {
+        "questionText": " Vị thuốc làm Thần dược trong bài thuốc trên là",
+        "answerOptions": [
+            {
+                "answerText": "Cát căn",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hoàng liên",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Cam thảo chích",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sài hồ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Câu 16. Tác dụng nào không phải của các Thần dược",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Lợi thấp",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Chỉ tả",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Chỉ khái",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 15
+    },
+    {
+        "questionText": " Chống chỉ định của bài thuốc trên là",
+        "answerOptions": [
+            {
+                "answerText": "Chứng thuộc hư hàn",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thể chất âm hư hoặc thấp nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Chứng Thiếu dương hoặc Dương minh hoặc Thiếu dương, Dương minh cùng bệnh nhưng Dương minh chưa thành thực nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Người suy nhược, phụ nữ có thai",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 17
+    },
+    {
+        "questionText": " BN có biểu hiện của",
+        "answerOptions": [
+            {
+                "answerText": "Ngoại cảm phong hàn ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Nội thương sinh lạnh",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Cả 2 đều đúng",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Cả 2 đều sai",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 18
+    },
+    {
+        "questionText": " Pháp trị cho BN",
+        "answerOptions": [
+            {
+                "answerText": "Giải biểu thanh lý",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tán hàn giải biểu, ôn trung hóa đàm, hoạt huyết tiêu tích",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Hòa giải Thiếu dương, tả hạ nhiệt kết",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sơ phong giải biểu, tả nhiệt thông tiện",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 19
+    },
+    {
+        "questionText": " Bài thuốc nên chỉ định cho BN là",
+        "answerOptions": [
+            {
+                "answerText": "Cát căn hoàng cầm hoàng liên thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ngũ tích tán",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Đại sài hồ thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Phòng phong thông thánh tán",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 20
+    },
+    {
+        "questionText": " Vị thuốc làm Quân dược trong bài thuốc trên",
+        "answerOptions": [
+            {
+                "answerText": "Bán hạ chế, Trần bì",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Can khương, Nhục quế",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Phục linh",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Cát cánh, Chỉ xác",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 21
+    },
+    {
+        "questionText": " Quân dược bài thuốc này có tác dụng",
+        "answerOptions": [
+            {
+                "answerText": "Táo thấp, hóa đàm, tiêu đàm tích",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Ôn trung, tán hàn cùng trừ nội ngoại hàn",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Kiện Tỳ lợi thấp ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thăng giáng khí, làm tan khí trệ",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 22
+    },
+    {
+        "questionText": " Vị thuốc không phải là Thần dược trong bài thuốc trên",
+        "answerOptions": [
+            {
+                "answerText": "Bán hạ chế, Trần bì",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Can khương, Nhục quế",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Phục linh",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Cát cánh, Chỉ xác",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 23
+    },
+    {
+        "questionText": " Thần dược bài thuốc này không có tác dụng",
+        "answerOptions": [
+            {
+                "answerText": "Táo thấp, hóa đàm, tiêu đàm tích",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Ôn trung, tán hàn cùng trừ nội ngoại hàn",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Kiện Tỳ lợi thấp",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thăng giáng khí, làm tan khí trệ",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 24
+    },
+    {
+        "questionText": " Chống chỉ định của bài thuốc trên là",
+        "answerOptions": [
+            {
+                "answerText": "Chứng thuộc hư hàn",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thể chất âm hư hoặc thấp nhiệt",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Chứng Thiếu dương hoặc Dương minh hoặc Thiếu dương, Dương minh cùng bệnh nhưng Dương minh chưa thành thực nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Người suy nhược, phụ nữ có thai",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 25
+    },
+    {
+        "questionText": " BN có biểu hiện của ",
+        "answerOptions": [
+            {
+                "answerText": "Thiếu dương bệnh",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Dương minh bệnh",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Cả 2 đều đúng",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Cả 2 đều sai",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 26
+    },
+    {
+        "questionText": " Pháp trị cho BN",
+        "answerOptions": [
+            {
+                "answerText": "Giải biểu thanh lý",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tán hàn giải biểu, ôn trung hóa đàm, hoạt huyết tiêu tích",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hòa giải Thiếu dương, tả hạ nhiệt kết",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Sơ phong giải biểu, tả nhiệt thông tiện",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 27
+    },
+    {
+        "questionText": " Bài thuốc nên chỉ định cho BN là",
+        "answerOptions": [
+            {
+                "answerText": "Cát căn hoàng cầm hoàng liên thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ngũ tích tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đại sài hồ thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Phòng phong thông thánh tán",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 28
+    },
+    {
+        "questionText": " Vị thuốc làm Quân dược trong bài thuốc này là",
+        "answerOptions": [
+            {
+                "answerText": "Sài hồ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Hoàng cầm",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đại hoàng",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Chỉ thực",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 29
+    },
+    {
+        "questionText": " Công dụng của vị thuốc trên là",
+        "answerOptions": [
+            {
+                "answerText": "Hòa giải Thiếu dương",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh ứ nhiệt ở Thiếu dương, trợ Sài hồ giải tà ở Thiếu dương",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tả nhiệt kết ở Trường Vị",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hòa trung ích khí, điều hòa dinh vệ",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 30
+    },
+    {
+        "questionText": " Vị thuốc nào không làm Thần dược trong bài thuốc này",
+        "answerOptions": [
+            {
+                "answerText": "Sài hồ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Hoàng cầm",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đại hoàng",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Chỉ thực",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 31
+    },
+    {
+        "questionText": " Công dụng nào không phải của Thần dược trong bài thuốc trên",
+        "answerOptions": [
+            {
+                "answerText": "Hòa giải Thiếu dương",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh ứ nhiệt ở Thiếu dương, trợ Sài hồ giải tà ở Thiếu dương",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tả nhiệt kết ở Trường Vị",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hòa trung ích khí, điều hòa dinh vệ",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 32
+    },
+    {
+        "questionText": " Chống chỉ định của bài thuốc trên là",
+        "answerOptions": [
+            {
+                "answerText": "Chứng thuộc hư hàn",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thể chất âm hư hoặc thấp nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Chứng Thiếu dương hoặc Dương minh hoặc Thiếu dương, Dương minh cùng bệnh nhưng Dương minh chưa thành thực nhiệt",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Người suy nhược, phụ nữ có thai",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 33
+    },
+    {
+        "questionText": " BN này có biểu hiện của",
+        "answerOptions": [
+            {
+                "answerText": "Phong nhiệt tà phạm biểu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Nhiệt kết, tà phạm Phế Vị",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Cả 2 đều đúng",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Cả 2 đều sai",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 34
+    },
+    {
+        "questionText": " Pháp trị cho BN",
+        "answerOptions": [
+            {
+                "answerText": "Giải biểu thanh lý",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tán hàn giải biểu, ôn trung hóa đàm, hoạt huyết tiêu tích",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hòa giải Thiếu dương, tả hạ nhiệt kết",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sơ phong giải biểu, tả nhiệt thông tiện",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 35
+    },
+    {
+        "questionText": " Bài thuốc nên chỉ định cho BN là",
+        "answerOptions": [
+            {
+                "answerText": "Cát căn hoàng cầm hoàng liên thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ngũ tích tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đại sài hồ thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Phòng phong thông thánh tán",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 36
+    },
+    {
+        "questionText": " Vị thuốc có tác dụng sơ phong giải biểu, phát hãn tán tà trong bài thuốc trên là",
+        "answerOptions": [
+            {
+                "answerText": "Phòng phong, Ma hoàng, Kinh giới, Bạc hà",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Hoàng cầm, Thạch cao, Liên kiều, Cát cánh",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Chi tử, Hoạt thạch, Đại hoàng. Mang tiêu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sinh khương",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 37
+    },
+    {
+        "questionText": " Vị thuốc có tác dụng thanh tả Phế Vị nhiệt, thanh tuyên thượng tiêu trong bài thuốc trên là",
+        "answerOptions": [
+            {
+                "answerText": "Phòng phong, Ma hoàng, Kinh giới, Bạc hà",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hoàng cầm, Thạch cao, Liên kiều, Cát cánh",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Chi tử, Hoạt thạch, Đại hoàng, Mang tiêu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sinh khương",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 38
+    },
+    {
+        "questionText": " Vị thuốc có tác dụng thanh nhiệt lợi thấp, tả nhiệt thông phủ ttong bài thuốc trên là",
+        "answerOptions": [
+            {
+                "answerText": "Phòng phong, Ma hoàng, Kinh giới, Bạc hà",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hoàng cầm, Thạch cao, Liên kiều, Cát cánh",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Chi tử, Hoạt thạch, Đại hoàng, Mang tiêu",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Sinh khương",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 39
+    },
+    {
+        "questionText": " Chú ý khi sử dụng của bài thuốc trên là",
+        "answerOptions": [
+            {
+                "answerText": "Chứng thuộc hư hàn",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thể chất âm hư hoặc thấp nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Chứng Thiếu dương hoặc Dương minh hoặc Thiếu dương, Dương minh cùng bệnh nhưng Dương minh chưa thành thực nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Người suy nhược, phụ nữ có thai",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 40
+    }
+]

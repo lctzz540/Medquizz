@@ -1,0 +1,200 @@
+[
+    {
+        "questionText": " Bài thuốc Đại sài hồ thang có tác dụng điều trị chính ở vị trí nào ?",
+        "answerOptions": [
+            {
+                "answerText": "Thiếu dương – Dương minh",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thái dương – Dương minh",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thiếu dương – Thái âm",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thái dương – Thiếu dương",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 1
+    },
+    {
+        "questionText": " Công dụng của phương thuốc Cát căn cầm liên thang là ?",
+        "answerOptions": [
+            {
+                "answerText": "Giải biểu thông lý, sơ phong thanh nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hòa giải Thiếu dương, tả hạ nhiệt kết",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Giải biểu thanh lý",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Phát biểu, ôn trung, tiêu tích",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 2
+    },
+    {
+        "questionText": " Trường hợp các chứng ngoại cảm chưa giải mà do dùng nhầm thuốc tả hạ nên tà khí xâm nhập vào sâu hơn gây ra mình nóng, sợ lạnh, ngực bụng đầy tức, miệng khát, thở khó, tiêu chảy, rêu vàng, mạch sác là chỉ định của bài thuốc nào sau đây ?",
+        "answerOptions": [
+            {
+                "answerText": "Nhân sâm bại độc tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Quế chi thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Cát căn hoàng cầm hoàng liên thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Đại sài hồ thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 3
+    },
+    {
+        "questionText": " Bệnh nhân ngoài thì cảm phong hàn, trong ăn phải thức ăn sống lạnh gây nội thương là chỉ định của bài thuốc nào ?",
+        "answerOptions": [
+            {
+                "answerText": "Đại sài hồ thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ngũ tích tán",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Phòng phong thông thánh tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Cát căn hoàng cầm hoàng liên thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 4
+    },
+    {
+        "questionText": "  Trong bài thuốc Đại sài hồ thang, vị thuốc làm Quân là ?",
+        "answerOptions": [
+            {
+                "answerText": "Sài hồ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Bạch truật",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Bạch chỉ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Bạch thược",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 5
+    },
+    {
+        "questionText": " Nhóm phương thuốc nào sau đây không thuộc phương thuốc song giải biểu lý ?",
+        "answerOptions": [
+            {
+                "answerText": "Phương thuốc phù chính khu tà",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Phương thuốc giải biểu thanh lý",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Phương thuốc giải biểu ôn lý",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Phương thuốc giải biểu công lý",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 6
+    },
+    {
+        "questionText": " Trong nhóm phương thuốc giải biểu thanh lý có bài thuốc nào sau đây ?",
+        "answerOptions": [
+            {
+                "answerText": "Cát căn hoàng cầm hoàng liên thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Ngũ tích tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đại sài hồ thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Phòng phong thông thánh tán",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 7
+    },
+    {
+        "questionText": " Trong nhóm phương thuốc giải biểu ôn lý có bài thuốc nào sau đây ?",
+        "answerOptions": [
+            {
+                "answerText": "Cát căn hoàng cầm hoàng liên thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ngũ tích tán",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Đại sài hồ thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Phòng phong thông thánh tán",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 8
+    },
+    {
+        "questionText": " Trong nhóm phương thuốc giải biểu công lý có bài thuốc nào sau đây ?",
+        "answerOptions": [
+            {
+                "answerText": "Cát căn hoàng cầm hoàng liên thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ngũ tích tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đại sài hồ thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tiêu dao tán",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 9
+    }
+]

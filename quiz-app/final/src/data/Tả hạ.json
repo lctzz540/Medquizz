@@ -1,0 +1,310 @@
+[
+    {
+        "questionText": " Trong phương thuốc Đại thừa khí thang, Đại hoàng làm Quân có tác dụng",
+        "answerOptions": [
+            {
+                "answerText": "Nhuyễn kiên tán kết",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Phá kết trừ bĩ mãn",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thông tiện tả hỏa",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Hoạt trường nhuận táo",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 1
+    },
+    {
+        "questionText": " Phương thuốc nào sau đây thích hợp cho chứng táo bón mạn tinh",
+        "answerOptions": [
+            {
+                "answerText": "Ngũ nhân hoan",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tăng dịch thừa khí thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hoàng long thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Điều vị thừa khí thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 2
+    },
+    {
+        "questionText": " Bài thuốc tăng dịch thừa khí thang thuốc nhôm",
+        "answerOptions": [
+            {
+                "answerText": "Hàn hạ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tuấn hạ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Nhuận hạ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Công bổ kiêm trị",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 3
+    },
+    {
+        "questionText": " Bài thuốc Đại thừa khí thang dùng để chữa tà khí ở",
+        "answerOptions": [
+            {
+                "answerText": "Thái dương",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Dương minh",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thiếu dương",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thái âm",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 4
+    },
+    {
+        "questionText": "  Người già yếu, người vừa khỏi bệnh, phụ nữ sau sinh có khí huyết kém, bị táo bón nên áp dụng bài thuốc nào sau đây",
+        "answerOptions": [
+            {
+                "answerText": "Ma tử nhân hoan",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Điều vị thừa khí thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hoàng long thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Ngũ nhân hoan",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 5
+    },
+    {
+        "questionText": " Bài thuốc nào sau đây có tác dụng tuấn hạ nhiệt kết, sự dụng trong chứng Dương minh phủ thực",
+        "answerOptions": [
+            {
+                "answerText": "Điều vị thừa khí thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tăng dịch thừa khí thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đại thừa khí thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tiểu thừa khí thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 6
+    },
+    {
+        "questionText": " Trong bài Đại hòang phụ tử thang, vị Phụ tử phối ngũ với Tế tân nhằm",
+        "answerOptions": [
+            {
+                "answerText": "Trợ dương",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Nhuyễn kiên",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thông tiện",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Trục hàn tích",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 7
+    },
+    {
+        "questionText": " Trong bài Ma tử nhân hoan, vị Ma tử nhân phối ngũ với vị Hạnh nhân làm Quân nhằm làm tăng tác dụng nào sau đây",
+        "answerOptions": [
+            {
+                "answerText": "Hành khí",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tả thực nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Nhuận táo",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Trừ bĩ mãn",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 8
+    },
+    {
+        "questionText": " Chứng bụng đau, bí đại tiện theo tay chân lạnh (quyết nghịch) là chỉ định của bài thuốc nào sau đây",
+        "answerOptions": [
+            {
+                "answerText": "Tiểu thừa khí thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đại thừa khí thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hoàng long thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đại hoàng phụ tử thang",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 9
+    },
+    {
+        "questionText": " Tuấn hạ nhiệt kết là công dụng của bài thuốc nào",
+        "answerOptions": [
+            {
+                "answerText": "Đại thừa khí thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Ôn tỳ thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đại hòang phụ tử thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ma tử nhân hoan",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 10
+    },
+    {
+        "questionText": " Đại hoàng và Mang tiêu trong bài thuốc Đại thừa khí thang tương tác theo kiểu",
+        "answerOptions": [
+            {
+                "answerText": "Tương sử",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tương tu",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tương úy",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tương sát",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 11
+    },
+    {
+        "questionText": " Nhuận táo thông tiện là công dụng của bài thuốc nào",
+        "answerOptions": [
+            {
+                "answerText": "Đại thừa khí thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ôn tỳ thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đại hòang phụ tử thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ma tử nhân hòan",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 12
+    },
+    {
+        "questionText": " Ôn bổ Tỳ dương, trừ hàn thông tiện là công dụng của bài thuốc nào",
+        "answerOptions": [
+            {
+                "answerText": "Đại thừa khí thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ôn tỳ thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Đại hòang phụ tử thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ma tử nhân hòan",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 13
+    },
+    {
+        "questionText": " Tán hàn thông tiện là công dụng của bài thuốc nào ",
+        "answerOptions": [
+            {
+                "answerText": "Đại thừa khí thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ôn tỳ thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đại hòang phụ tử thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Ma tử nhân hòan",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 14
+    }
+]
