@@ -4,16 +4,16 @@ I am building this app to help students prepare for exams. It works by encoding 
 Ussage
 Put your exam file into exam-question folder, then run this command
 
-'''console
+```console
 
 $ python encode.py
 
-'''
+```
 
 Then cd to final folder and start app
 
-'''console
+```console
 
 $ yarn start
 
-'''
+```
