@@ -89,14 +89,13 @@ for path in path_list:
             cases_list[i] = cases_list[i].__dict__
         for i in range(len(case_list_out)):
             case_list_out[i] = case_list_out[i].__dict__
-            #case_list_out[i]['ques'] = case_list_out[i]['ques'].__dict__
             for j in range(len(case_list_out[i]['ques'])):
                 case_list_out[i]['ques'][j] = case_list_out[i]['ques'][j].__dict__
             
 
-        with open(f"{f_name}.json", "w") as outfile:
+        with open(f"./quiz-app/final/src/data/{f_name}.json", "w") as outfile:
             json.dump(fullText, outfile, indent=4, ensure_ascii=False)
-        with open(f"{f_name+'_cases_question'}.json", "w") as cases_questionsfile:
+        with open(f"./quiz-app/final/src/data/{f_name+'_cases_question'}.json", "w") as cases_questionsfile:
             json.dump(case_list_out, cases_questionsfile, indent=4, ensure_ascii=False)   
     except:
         pass
