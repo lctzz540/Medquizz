@@ -12,7 +12,7 @@ $ python encode.py
 
 ```
 
-Then cd to final folder and start app
+ Then cd to quiz-app/final folder, edit file final/src/data/questions.js and start app
 
 ```console
 
