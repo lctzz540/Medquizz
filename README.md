@@ -12,7 +12,7 @@ $ python encode.py
 
 ```
 
- Then cd to quiz-app/final folder, edit file final/src/data/questions.js and start app
+Move the json file output to quiz-app/final/src/data/. Then edit file quiz-app/final/src/data/questions.js and run start scipt in final folder.
 
 ```console
 
