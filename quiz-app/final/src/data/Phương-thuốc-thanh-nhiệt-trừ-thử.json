@@ -1,0 +1,2048 @@
+[
+    {
+        "questionText": " Bài thuốc Lục nhất tán thuộc nhôm",
+        "answerOptions": [
+            {
+                "answerText": "Thanh nhiệt khí phận",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt giải độc",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt trừ thử lợi thấp",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt tạng phủ",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 1
+    },
+    {
+        "questionText": " Bài thuốc Trúc diệp thạch cao thang dùng để thanh nhiệt ở",
+        "answerOptions": [
+            {
+                "answerText": "Vệ phận",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Khí phận",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Dinh phận",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Huyết phận",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 2
+    },
+    {
+        "questionText": " Trong bài thuốc Hoàng liên giải độc thang, vị Hoàng liên có tác dụng",
+        "answerOptions": [
+            {
+                "answerText": "Tả hỏa",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Lương huyết",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Giải độc",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Lợi thấp",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 3
+    },
+    {
+        "questionText": " Bạch hổ thang để thanh nhiệt ở khí phận, vị Thạch cao làm quân vì có tác dụng",
+        "answerOptions": [
+            {
+                "answerText": "Tư tâm",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sinh tân",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tả hỏa",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 4
+    },
+    {
+        "questionText": " Trong trường hợp âm hư sốt kéo dài, bài thuốc nào sau đây có thể được sử dụng",
+        "answerOptions": [
+            {
+                "answerText": "Đạo xích tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tê giác địa hoàng thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Long đởm tả can thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh hao miết giáp thang",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 5
+    },
+    {
+        "questionText": " Trường hợp lỵ, mọt rặn, bụng đau, đại tiện có máu mủ, hậu môn nông rát, bài thuốc được sử dụng là",
+        "answerOptions": [
+            {
+                "answerText": "Thanh vị thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hoàng cầm thang ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đạo xích tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Bạch đầu ông thang",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 6
+    },
+    {
+        "questionText": " Công dụng bài thuốc Phổ tế tiêu độc ẩm",
+        "answerOptions": [
+            {
+                "answerText": "Thanh nhiệt giải độc, sơ phong tán tà",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh thử nhiệt, ích nguyên khí",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh hư nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt, giải độc, lương huyết, tán ứ ",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 7
+    },
+    {
+        "questionText": " Mùa hè, Thử tà làm tổn hao đến tân dịch, nguyên khí gây ra sốt, vã mồ hôi, mệt mỏi, bứt rứt, chỉ định của bài thuốc",
+        "answerOptions": [
+            {
+                "answerText": "Thanh thử ích khí thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Đạo xích tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hương nhu tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Bạch hổ thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 8
+    },
+    {
+        "questionText": " Ngoại cảm hàn tà, trong bị thấp, biểu hiện sốt, sợ lạnh, đau đầu, không ra mồ hôi, ngực đầy trướng, tiêu chảy, rêu lưỡi trắng nhờ, mạch phù là chỉ định của bài thuốc",
+        "answerOptions": [
+            {
+                "answerText": "Thạnh vị tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đạo xích tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hương nhu tán",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Lục nhất tán",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 9
+    },
+    {
+        "questionText": " Nhiệt tà xâm nhập gây mỏi, lợi sưng nề hoặc lở loét hoặc chảy máu chân răng kèm miệng khô, lưỡi ráo, hơi thở hôi thối là chỉ định của bài thuốc",
+        "answerOptions": [
+            {
+                "answerText": "Thanh vị tán",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh cốt tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Trúc diệp thạch cao thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tê giác địa hoang thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 10
+    },
+    {
+        "questionText": " BN với triệu chứng đại nhiệt, đại hãn, đại khát, mạch đại, hữu lực. Chỉ định bài thuốc cho BN",
+        "answerOptions": [
+            {
+                "answerText": "Trúc diệp thạch cao thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Bạch hổ thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh dinh thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tê giác địa hoàng thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 11
+    },
+    {
+        "questionText": " Công dụng bài thuốc Bạch hổ thang",
+        "answerOptions": [
+            {
+                "answerText": "Thanh nhiệt tả hỏa, sinh tân chỉ khát",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt sinh tân, ích khí hòa Vị",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt giải độc, lương huyết tán ứ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh dinh giải độc, thấu nhiệt dưỡng âm ",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 12
+    },
+    {
+        "questionText": " Chỉ định bài thuốc Bạch hổ thang",
+        "answerOptions": [
+            {
+                "answerText": "Nhiệt thịnh khí phận",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thương hàn",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Nhiệt nhập dinh phận ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Nhiệt nhập huyết phận",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 13
+    },
+    {
+        "questionText": " Quân dược của bài Bạch hổ thang",
+        "answerOptions": [
+            {
+                "answerText": "Tri mẫu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thạch cao",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tê giác",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Huyền sâm",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 14
+    },
+    {
+        "questionText": " Thần dược của bài Bạch hổ thang",
+        "answerOptions": [
+            {
+                "answerText": "Tri mẫu",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thạch cao",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tê giác",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Huyền sâm",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 15
+    },
+    {
+        "questionText": " Công dụng của Tri mẫu trong bài Bạch hổ thang",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, chỉ khát trừ phiền",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ích khí sinh tân",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Lương huyết thanh Tâm, giải độc",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 16
+    },
+    {
+        "questionText": " Chống chỉ định bài Bạch hổ thang",
+        "answerOptions": [
+            {
+                "answerText": "Nhiệt nhập dinh phận",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thấp uất kết",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Chính thịnh tà thực, sốt cao chưa giảm",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Biểu chưa giải, huyết hư, khí hư",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 17
+    },
+    {
+        "questionText": " BN ngực bứt rứt, buồn nôn, ra mồ hôi nhiều, mất ngut, lưỡi đỏ, mạch hư sác. Chỉ định bài thuốc cho BN",
+        "answerOptions": [
+            {
+                "answerText": "Trúc diệp thạch cao thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Bạch hổ thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh dinh thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tê giác địa hoàng thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 18
+    },
+    {
+        "questionText": " Công dụng bài thuốc Trúc diệp thạch cao thang",
+        "answerOptions": [
+            {
+                "answerText": "Thanh nhiệt tả hỏa, sinh tân chỉ khát",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt sinh tân, ích khí hòa Vị",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt giải độc, lương huyết tán ứ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh dinh giải độc, thấu nhiệt dưỡng âm ",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 19
+    },
+    {
+        "questionText": " Chỉ định bài thuốc Trúc diệp thạch cao thang",
+        "answerOptions": [
+            {
+                "answerText": "Nhiệt thịnh khí phận",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thương hàn",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Nhiệt nhập dinh phận ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Nhiệt nhập huyết phận",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 20
+    },
+    {
+        "questionText": " Công dụng của Thạch cao trong bài Trúc diệp thạch cao thang",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt sinh tân, chỉ khát trừ phiền",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Ích khí sinh tân",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Lương huyết thanh Tâm, giải độc",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 21
+    },
+    {
+        "questionText": " Quân dược của bài Trúc diệp thạch cao thang",
+        "answerOptions": [
+            {
+                "answerText": "Tri mẫu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thạch cao",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tê giác",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Huyền sâm",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 22
+    },
+    {
+        "questionText": " Thần dược của bài Trúc diệp thạch cao thang",
+        "answerOptions": [
+            {
+                "answerText": "Tri mẫu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thạch cao",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tê giác",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Nhân sâm",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 23
+    },
+    {
+        "questionText": " Thần dược của bài Trúc diệp thạch cao thang",
+        "answerOptions": [
+            {
+                "answerText": "Tri mẫu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thạch cao",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Mạch môn",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Huyền sâm",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 24
+    },
+    {
+        "questionText": " Công dụng của Nhân sâm trong bài Trúc diệp thạch cao thang",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt sinh tân, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ích khí sinh tân",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Lương huyết thanh Tâm, giải độc",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 25
+    },
+    {
+        "questionText": " Công dụng của Mạch môn trong bài Trúc diệp thạch cao thang",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt sinh tân, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Dưỡng âm sinh tân",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Lương huyết thanh Tâm, giải độc",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 26
+    },
+    {
+        "questionText": " Chống chỉ định bài Trúc diệp thạch cao thang",
+        "answerOptions": [
+            {
+                "answerText": "Nhiệt nhập dinh phận",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thấp uất kết",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Chính thịnh tà thực, sốt cao chưa giảm",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Biểu chưa giải, huyết hư, khí hư",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 27
+    },
+    {
+        "questionText": " BN nóng, nặng về chiều, ban chẩn nổi lờ mờ, lưỡi đỏ thẫm, khô, mạch tế sác. Chỉ định cho BN",
+        "answerOptions": [
+            {
+                "answerText": "Trúc diệp thạch cao thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Bạch hổ thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh dinh thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tê giác địa hoàng thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 28
+    },
+    {
+        "questionText": " Công dụng bài thuốc Thanh dinh thang",
+        "answerOptions": [
+            {
+                "answerText": "Thanh nhiệt tả hỏa, sinh tân chỉ khát",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt sinh tân, ích khí hòa Vị",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt giải độc, lương huyết tán ứ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh dinh giải độc, thấu nhiệt dưỡng âm ",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 29
+    },
+    {
+        "questionText": " Chỉ định bài thuốc Thanh dinh thang",
+        "answerOptions": [
+            {
+                "answerText": "Nhiệt thịnh khí phận",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thương hàn",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Nhiệt nhập dinh phận ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Nhiệt nhập huyết phận",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 30
+    },
+    {
+        "questionText": " Chống chỉ định bài Thanh dinh thang ",
+        "answerOptions": [
+            {
+                "answerText": "Nhiệt nhập dinh phận",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thấp uất kết",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Chính thịnh tà thực, sốt cao chưa giảm",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Biểu chưa giải, huyết hư, khí hư",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 31
+    },
+    {
+        "questionText": " Thần dược của bài Thanh dinh thang",
+        "answerOptions": [
+            {
+                "answerText": "Tri mẫu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thạch cao",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Kim ngân hoa",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Huyền sâm",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 32
+    },
+    {
+        "questionText": " Thần dược của bài Thanh dinh thang",
+        "answerOptions": [
+            {
+                "answerText": "Tri mẫu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thạch cao",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Mạch môn",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Đan sâm",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 33
+    },
+    {
+        "questionText": " Thần dược của bài Thanh dinh thang",
+        "answerOptions": [
+            {
+                "answerText": "Tri mẫu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sinh địa",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Kim ngân hoa",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hoàng liên",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 34
+    },
+    {
+        "questionText": " Quân dược của bài Thanh dinh thang",
+        "answerOptions": [
+            {
+                "answerText": "Tri mẫu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thạch cao",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Kim ngân hoa",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tê giác",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 35
+    },
+    {
+        "questionText": " Công dụng của Tê giác trong bài Thanh dinh thang",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt sinh tân, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Dưỡng âm sinh tân",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt độc ở dinh phận",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 36
+    },
+    {
+        "questionText": " Công dụng của Sinh địa trong bài Thanh dinh thang",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Giáng hỏa",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Lương huyết, dưỡng âm",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt độc ở dinh phận",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 37
+    },
+    {
+        "questionText": " Công dụng của Huyền sâm trong bài Thanh dinh thang",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tư âm, giáng hỏa",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Lương huyết, dưỡng âm",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt độc ở dinh phận",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 38
+    },
+    {
+        "questionText": " BN nóng, mê sảng, phát ban sắc đen sạm, xuất huyết, tiểu ra máu, mạch sác",
+        "answerOptions": [
+            {
+                "answerText": "Trúc diệp thạch cao thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Bạch hổ thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh dinh thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tê giác địa hoàng thang",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 39
+    },
+    {
+        "questionText": " Công dụng bài thuốc Tê giác địa hoàng thang",
+        "answerOptions": [
+            {
+                "answerText": "Thanh nhiệt tả hỏa, sinh tân chỉ khát",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt sinh tân, ích khí hòa Vị",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt giải độc, lương huyết tán ứ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh dinh giải độc, thấu nhiệt dưỡng âm ",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 40
+    },
+    {
+        "questionText": " Công dụng của Tê giác trong bài Tê giác địa hoàng thang",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tư âm, giáng hỏa",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Lương huyết thanh Tâm, giải nhiệt độc. ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt độc ở dinh phận",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 41
+    },
+    {
+        "questionText": " Công dụng của Sinh địa trong bài Tê giác địa hoàng thang",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, giáng hỏa",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tư âm, giáng hỏa",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt lương huyết, dưỡng âm. ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt độc ở dinh phận",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 42
+    },
+    {
+        "questionText": " BN sốt cao, bứt rứt, nói sảng, mất ngủ, miệng họng khô; hoặc bệnh nhiệt gây nôn máu, chảy máu cam; hoặc sốt cao, phát ban; hoặc mình nóng, tiêu chảy; hoặc  hoặc thấp nhiệt gây hoàng đản; hoặc ung nhọt, đinh độc, tiểu đỏ, lưỡi đỏ, rêu vàng, mạch sác, hữu lực. Chỉ định dùng bài thuốc",
+        "answerOptions": [
+            {
+                "answerText": "Trúc diệp thạch cao thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hoàng liên giải độc thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh dinh thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tê giác địa hoàng thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 43
+    },
+    {
+        "questionText": " Công dụng bài thuốc Hoàng liên giải độc thang",
+        "answerOptions": [
+            {
+                "answerText": "Thanh nhiệt tả hỏa, sinh tân chỉ khát",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt sinh tân, ích khí hòa Vị",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tả hỏa giải độc",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh dinh giải độc, thấu nhiệt dưỡng âm ",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 44
+    },
+    {
+        "questionText": " Công dụng của Hoàng liên trong bài Hoàng liên giải độc thang",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, giáng hỏa",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh Tâm tả hỏa. ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt lương huyết, dưỡng âm. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt độc ở dinh phận",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 45
+    },
+    {
+        "questionText": " Công dụng của Hoàng cầm trong bài Hoàng liên giải độc thang",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, giáng hỏa",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh Tâm tả hỏa. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt thượng tiêu",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt độc ở dinh phận",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 46
+    },
+    {
+        "questionText": " Công dụng của Hoàng bá trong bài Hoàng liên giải độc thang",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, giáng hỏa",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh Tâm tả hỏa. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt thượng tiêu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt hạ tiêu",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 47
+    },
+    {
+        "questionText": " BN sợ lạnh, phát sốt; đầu mặt sưng tấy, đỏ, đau; mắt không thể mở; hầu họng sưng, đỏ, đau; lưỡi khô, miệng khát, lưỡi hồng, rêu vàng, mạch phù sác, hữu lực. Chỉ định dùng bài thuốc cho BN này",
+        "answerOptions": [
+            {
+                "answerText": "Bổ phế tiêu độc ẩm",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Hoàng liên giải độc thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh dinh thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tê giác địa hoàng thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 48
+    },
+    {
+        "questionText": " Công dụng bài thuốc Bổ phế tiêu độc ẩm",
+        "answerOptions": [
+            {
+                "answerText": "Thanh nhiệt giải độc, sơ phong tán tà",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt sinh tân, ích khí hòa Vị",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tả hỏa giải độc",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh dinh giải độc, thấu nhiệt dưỡng âm ",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 49
+    },
+    {
+        "questionText": " Công dụng của Hoàng cầm, Hoàng liên trong bài Bổ phế tiêu độc ẩm",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, giáng hỏa",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh Tâm tả hỏa. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt thượng tiêu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 50
+    },
+    {
+        "questionText": " Công dụng của Thăng ma, Sài hồ trong bài Bổ phế tiêu độc ẩm",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, giáng hỏa",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sơ tán phong nhiệt, dẫn thuốc đưa lên đầu mặt. ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt thượng tiêu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 51
+    },
+    {
+        "questionText": " BN tức ngực, bứt rứt, mặt đỏ, loét miệng lưỡi, miệng khát, thích uống nước lạnh; hoặc Tâm nhiệt truyền xuống phủ Tiểu trường, tiểu đỏ, gắt, đau, lưỡi đỏ, mạch sác. Chỉ định dùng thuốc cho BN",
+        "answerOptions": [
+            {
+                "answerText": "Bổ phế tiêu độc ẩm",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đạo xích tán",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh dinh thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tê giác địa hoàng thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 52
+    },
+    {
+        "questionText": " Công dụng bài thuốc Đạo xích tán",
+        "answerOptions": [
+            {
+                "answerText": "Thanh Tâm, lợi thủy, dưỡng âm",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt sinh tân, ích khí hòa Vị",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tả hỏa giải độc",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh dinh giải độc, thấu nhiệt dưỡng âm ",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 53
+    },
+    {
+        "questionText": " Công dụng của Sinh địa trong bài Đạo xích tán",
+        "answerOptions": [
+            {
+                "answerText": "Lương huyết tư âm để khống chế Tâm hỏa",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Sơ tán phong nhiệt, dẫn thuốc đưa lên đầu mặt. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt thượng tiêu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 54
+    },
+    {
+        "questionText": " Công dụng của Mộc thông trong bài Đạo xích tán",
+        "answerOptions": [
+            {
+                "answerText": "Thanh Tâm hỏa, lợi thủy thông lâm. ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Sơ tán phong nhiệt, dẫn thuốc đưa lên đầu mặt. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt thượng tiêu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 55
+    },
+    {
+        "questionText": " Công dụng của Trúc diệp trong bài Đạo xích tán",
+        "answerOptions": [
+            {
+                "answerText": "Thanh Tâm hỏa, lợi thủy thông lâm. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh Tâm trừ phiền, dẫn Tâm hỏa đi xuống.",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt thượng tiêu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 56
+    },
+    {
+        "questionText": " BN bộ phận sinh dục sưng, ngứa; liệt dương, tiểu đục hoặc phụ nữ đới hạ vàng, hôi, lưỡi đỏ, rêu vàng nhầy, mạch huyền sác, hữu lực. Chỉ định bài thuốc cho BN",
+        "answerOptions": [
+            {
+                "answerText": "Bổ phế tiêu độc ẩm",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đạo xích tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Long đởm tả can thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tê giác địa hoàng thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 57
+    },
+    {
+        "questionText": " Công dụng của Long đởm thảo trong bài Long đởm tả can thang",
+        "answerOptions": [
+            {
+                "answerText": "Tả thực hỏa ở Can Đởm, trừ thấp nhiệt ở hạ tiêu. ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh Tâm trừ phiền, dẫn Tâm hỏa đi xuống.",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh lợi thấp nhiệt trợ Long đởm thảo tả hỏa trừ thấp. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 58
+    },
+    {
+        "questionText": " Công dụng của Hoàng cầm, Chi tử trong bài Long đởm tả can thang",
+        "answerOptions": [
+            {
+                "answerText": "Tả thực hỏa ở Can Đởm, trừ thấp nhiệt ở hạ tiêu. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh Tâm trừ phiền, dẫn Tâm hỏa đi xuống.",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh lợi thấp nhiệt trợ Long đởm thảo tả hỏa trừ thấp. ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 59
+    },
+    {
+        "questionText": " BN ho, suyễn, da nóng bừng bừng, sốt cao về chiều, lưỡi đỏ, rêu vàng, mạch tế sác. Chỉ định cho BN này",
+        "answerOptions": [
+            {
+                "answerText": "Bổ phế tiêu độc ẩm",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đạo xích tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tả bạch tán",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tê giác địa hoàng thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 60
+    },
+    {
+        "questionText": " Công dụng bài thuốc Tả bạch tán",
+        "answerOptions": [
+            {
+                "answerText": "Thanh tả Can đởm thực hỏa, thanh lợi Can kinh thấp nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt sinh tân, ích khí hòa Vị",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh tả Phế nhiệt, bình suyễn chỉ khái.",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh dinh giải độc, thấu nhiệt dưỡng âm ",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 61
+    },
+    {
+        "questionText": " Công dụng của Tang bạch bì trong bài Tả bạch tán",
+        "answerOptions": [
+            {
+                "answerText": "Tả thực hỏa ở Can Đởm, trừ thấp nhiệt ở hạ tiêu. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tả Phế nhiệt, thanh Phế khí, chỉ khái, bình suyễn. ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh lợi thấp nhiệt trợ Long đởm thảo tả hỏa trừ thấp. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 62
+    },
+    {
+        "questionText": " Công dụng của Địa cốt bì trong bài Tả bạch tán",
+        "answerOptions": [
+            {
+                "answerText": "Tả thực hỏa ở Can Đởm, trừ thấp nhiệt ở hạ tiêu. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh Phế trừ phục hỏa. ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh lợi thấp nhiệt trợ Long đởm thảo tả hỏa trừ thấp. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 63
+    },
+    {
+        "questionText": " BN đau răng gây đau đầu, nóng gò má, răng đau thích lạnh, sợ nóng, hoặc chảy máu chân răng, nặng thì lợi sưng đỏ, lở loét hoặc môi, lưỡi, má sưng đau, hơi thở hôi thối, miệng khô, lưỡi khô, lưỡi đỏ, rêu vàng, mạch hoạt sác. Chỉ định cho BN",
+        "answerOptions": [
+            {
+                "answerText": "Bổ phế tiêu độc ẩm",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh vị tán",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tả bạch tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tê giác địa hoàng thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 64
+    },
+    {
+        "questionText": " Công dụng bài thuốc Thanh vị thang",
+        "answerOptions": [
+            {
+                "answerText": "Thanh tả Can đởm thực hỏa, thanh lợi Can kinh thấp nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt sinh tân, ích khí hòa Vị",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh tả Phế nhiệt, bình suyễn chỉ khái.",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh vi lương huyết.",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 65
+    },
+    {
+        "questionText": " Công dụng của Hoàng liên trong bài Thanh vị thang",
+        "answerOptions": [
+            {
+                "answerText": "Tả thực hỏa ở Can Đởm, trừ thấp nhiệt ở hạ tiêu. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tả hỏa phủ Vị",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh lợi thấp nhiệt trợ Long đởm thảo tả hỏa trừ thấp. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 66
+    },
+    {
+        "questionText": " Công dụng của Thăng ma trong bài thanh vị thang",
+        "answerOptions": [
+            {
+                "answerText": "Tả thực hỏa ở Can Đởm, trừ thấp nhiệt ở hạ tiêu. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt giải độc",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh lợi thấp nhiệt trợ Long đởm thảo tả hỏa trừ thấp. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 67
+    },
+    {
+        "questionText": " Công dụng của Mẫu đơn bì trong bài Thanh vị thang",
+        "answerOptions": [
+            {
+                "answerText": "Tả thực hỏa ở Can Đởm, trừ thấp nhiệt ở hạ tiêu. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt lương huyết",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh lợi thấp nhiệt trợ Long đởm thảo tả hỏa trừ thấp. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 68
+    },
+    {
+        "questionText": " BN đại tiện có máu mủ, máu nhiều mủ ít, đau bụng, mót rặn, hậu môn nóng rát, khát thích uống nước, lưỡi đỏ, rêu vàng, mạch huyền sác. Chỉ định cho BN",
+        "answerOptions": [
+            {
+                "answerText": "Bạch đầu ông thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh vị tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tả bạch tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tê giác địa hoàng thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 69
+    },
+    {
+        "questionText": " Công dụng của bài Bạch đầu ông thang",
+        "answerOptions": [
+            {
+                "answerText": "Thanh tả Can đởm thực hỏa, thanh lợi Can kinh thấp nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt sinh tân, ích khí hòa Vị",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt giải độc, lương huyết chỉ lỵ. ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh vi lương huyết.",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 70
+    },
+    {
+        "questionText": " Công dụng của Bạch đầu ông trong bài Bạch đầu ông thang",
+        "answerOptions": [
+            {
+                "answerText": "Thanh nhiệt phần huyết, chỉ tả lỵ. ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt lương huyết",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh lợi thấp nhiệt trợ Long đởm thảo tả hỏa trừ thấp. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 71
+    },
+    {
+        "questionText": " Công dụng của Hoàng liên, Hoàng bá trong bài Bạch đầu ông thang",
+        "answerOptions": [
+            {
+                "answerText": "Thanh thấp nhiệt giải độc ở trung và hạ tiêu, phối hợp với Bạch đầu ông trừ tả lỵ. ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt lương huyết",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh lợi thấp nhiệt trợ Long đởm thảo tả hỏa trừ thấp. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 72
+    },
+    {
+        "questionText": " BN đêm sốt ngày mát, sốt hết không có mồ hôi, lưỡi đỏ, rêu ít, mạch tế sác. Chỉ định cho BN này",
+        "answerOptions": [
+            {
+                "answerText": "Thanh hao miết giáp thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh vị tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tả bạch tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tê giác địa hoàng thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 73
+    },
+    {
+        "questionText": " Công dụng của bài Thanh hao miết giáp thang",
+        "answerOptions": [
+            {
+                "answerText": "Thanh tả Can đởm thực hỏa, thanh lợi Can kinh thấp nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt sinh tân, ích khí hòa Vị",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Dưỡng âm thanh nhiệt.",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh vi lương huyết.",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 74
+    },
+    {
+        "questionText": " Công dụng của Miết giáp trong bài Thanh hao miết giáp thang ",
+        "answerOptions": [
+            {
+                "answerText": "Thanh thấp nhiệt giải độc ở trung và hạ tiêu, phối hợp với Bạch đầu ông trừ tả lỵ. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Trực tiếp vào âm phận để tư âm trừ hư nhiệt",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh lợi thấp nhiệt trợ Long đởm thảo tả hỏa trừ thấp. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 75
+    },
+    {
+        "questionText": " Công dụng của Thanh hao trong bài Thanh hao miết giáp thang ",
+        "answerOptions": [
+            {
+                "answerText": "Thanh thấp nhiệt giải độc ở trung và hạ tiêu, phối hợp với Bạch đầu ông trừ tả lỵ. ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Trực tiếp vào âm phận để tư âm trừ hư nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt, dẫn tà ra ngoài",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 76
+    },
+    {
+        "questionText": " Công dụng của Tri mẫu trong bài Thanh hao miết giáp thang ",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm giáng hỏa",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Trực tiếp vào âm phận để tư âm trừ hư nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt, dẫn tà ra ngoai",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 77
+    },
+    {
+        "questionText": " Công dụng của Sinh địa trong bài Thanh hao miết giáp thang ",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm lương huyết",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Trực tiếp vào âm phận để tư âm trừ hư nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt, dẫn tà ra ngoai",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 78
+    },
+    {
+        "questionText": " Công dụng bài thuốc Long đởm tả can thang",
+        "answerOptions": [
+            {
+                "answerText": "Thanh tả Can đởm thực hỏa, thanh lợi Can kinh thấp nhiệt",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt sinh tân, ích khí hòa Vị",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tả hỏa giải độc",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh dinh giải độc, thấu nhiệt dưỡng âm ",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 79
+    },
+    {
+        "questionText": " BN sốt, sợ lạnh, đau đầu, đau nhức mình, không ra mồ hôi, đau bụng, nôn, tiêu chảy, ngực bụng đầy trướng, rêu lưỡi trắng nhầy, mạch phù. Chỉ định cho BN này",
+        "answerOptions": [
+            {
+                "answerText": "Hương nhu tán",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh vị tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tả bạch tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tê giác địa hoàng thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 80
+    },
+    {
+        "questionText": " Công dụng bài Hương nhu tán",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm lương huyết",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Trực tiếp vào âm phận để tư âm trừ hư nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Trừ thấp giải biểu, hóa thấp hòa trung.",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 81
+    },
+    {
+        "questionText": " Công dụng của Hương nhu trong bài Hương nhu tán",
+        "answerOptions": [
+            {
+                "answerText": "Giải thử, tán hàn, lợi thấp",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Trực tiếp vào âm phận để tư âm trừ hư nhiệt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt, dẫn tà ra ngoai",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 82
+    },
+    {
+        "questionText": " Công dụng của Hậu phác trong bài Hương nhu tán",
+        "answerOptions": [
+            {
+                "answerText": "Giải thử, tán hàn, lợi thấp",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hành khí, trừ thấp, hóa trệ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt, dẫn tà ra ngoai",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 83
+    },
+    {
+        "questionText": " BN mình nóng, bứt rứt, miệng khát, tiểu tiện không thông, hoặc tiêu chảy. Chỉ định cho BN",
+        "answerOptions": [
+            {
+                "answerText": "Hương nhu tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh vị tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Lục nhất tán",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tê giác địa hoàng thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 84
+    },
+    {
+        "questionText": " Công dụng của Lục nhất tán",
+        "answerOptions": [
+            {
+                "answerText": "Thanh nhiệt lợi thấp",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Hành khí, trừ thấp, hóa trệ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt, dẫn tà ra ngoai",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 85
+    },
+    {
+        "questionText": " Công dụng của Hoạt thạch trong bài Lục nhất tán",
+        "answerOptions": [
+            {
+                "answerText": "Giải thử, tán hàn, lợi thấp",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh giải thử nhiệt, thông lợi thủy đạo",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt, dẫn tà ra ngoai",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 86
+    },
+    {
+        "questionText": " BN mình nóng, ra nhiều mồ hôi, bứt rứt, miệng khát, nước tiểu ít, sẫm, mệt mỏi, thiếu khí, tinh thần không phấn chấn, mạch hư sác. Chỉ định cho BN này",
+        "answerOptions": [
+            {
+                "answerText": "Hương nhu tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh vị tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh thử ích khí thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tê giác địa hoàng thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 87
+    },
+    {
+        "questionText": " Công dụng của Thanh thử ích khí thang ",
+        "answerOptions": [
+            {
+                "answerText": "Thanh thử ích khí, dưỡng âm sinh tân.",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Hành khí, trừ thấp, hóa trệ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt, dẫn tà ra ngoai",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 88
+    },
+    {
+        "questionText": " Công dụng của Vỏ dưa hấu trong bài Thanh thử ích khí thang",
+        "answerOptions": [
+            {
+                "answerText": "Giải thử, tán hàn, lợi thấp",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh giải thử nhiệt, sinh tân chỉ khát",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt, dẫn tà ra ngoai",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 89
+    },
+    {
+        "questionText": " Công dụng của Tây dương sâm trong bài Thanh thử ích khí thang",
+        "answerOptions": [
+            {
+                "answerText": "Giải thử, tán hàn, lợi thấp",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ích khí sinh tân, dưỡng âm thanh nhiệt.",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt, dẫn tà ra ngoai",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 90
+    },
+    {
+        "questionText": " Công dụng của Cọng sen trong bài Thanh thử ích khí thang",
+        "answerOptions": [
+            {
+                "answerText": "Giải thử, tán hàn, lợi thấp",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Trợ Vỏ dưa hấu thanh nhiệt giải thử",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt, dẫn tà ra ngoai",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 91
+    },
+    {
+        "questionText": " Công dụng của Mạch môn, Thạch hộc trong bài Thanh thử ích khí thang",
+        "answerOptions": [
+            {
+                "answerText": "Giải thử, tán hàn, lợi thấp",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Trợ Vỏ dưa hấu thanh nhiệt giải thử",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Trợ Tây dương sâm dưỡng âm, sinh tân, thanh nhiệt. ",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, giải độc ở thượng tiêu và đầu",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 92
+    },
+    {
+        "questionText": " Công dụng của Thạch cao trong bài Bạch hổ thang",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, chỉ khát trừ phiền",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Ích khí sinh tân",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Lương huyết thanh Tâm, giải độc",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 93
+    }
+]
