@@ -2044,5 +2044,115 @@
             }
         ],
         "questionID": 93
+    },
+    {
+        "questionText": " BN đau bụng mót rặn đại tiện máu mủ, nóng rát hậu môn, không khát. Chỉ định dùng cho BN này",
+        "answerOptions": [
+            {
+                "answerText": "Hương nhu tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh vị tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thược dược thang",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tê giác địa hoàng thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 94
+    },
+    {
+        "questionText": " Công dụng của Thược dược thang",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt táo thấp, điều hòa khí huyết",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Ích khí sinh tân",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Lương huyết thanh Tâm, giải độc",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 95
+    },
+    {
+        "questionText": " Công dụng của Thược dược trong bài Thược dược thang",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "An trung chỉ thống, liễm âm dưỡng huyết",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Lương huyết thanh Tâm, giải độc",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 96
+    },
+    {
+        "questionText": " Công dụng của Hoàng cầm, Hoàng liên trong bài Thược dược thang",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt táo thấp, giải độc",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Lương huyết thanh Tâm, giải độc",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 97
+    },
+    {
+        "questionText": " Công dụng của Đại hòang trong bài Thược dược thang",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm nhuận táo, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thanh nhiệt tả hỏa, chỉ khát trừ phiền",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tả nhiệt phá ứ, thông tiện",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Lương huyết thanh Tâm, giải độc",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 98
     }
 ]
