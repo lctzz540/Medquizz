@@ -1,0 +1,1337 @@
+[
+    {
+        "question_group": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+        ],
+        "question_group_text": "Bn nam 45 tuổi, có các biểu hiện: đau nửa đầu, cả đầu hoặc đỉnh đầu, hoa mắt, sợ lạnh, phát sốt, nghẹt mũi, rêu lưỡi trắng mỏng, mạch phù.",
+        "ques": [
+            {
+                "questionText": " BN này có biểu hiện của",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng đau đầu do ngoại cảm phong tà",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Phong tà mới trúng vào kinh lạc",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Phong chẩn, thấp chẩn",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tiện huyết (do phong nhiệt thấp độc)",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 15
+            },
+            {
+                "questionText": " Pháp trị cho BN này",
+                "answerOptions": [
+                    {
+                        "answerText": "Sơ phong chỉ thống",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Trừ phong thanh nhiệt, dưỡng huyết hoạt huyết",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Sơ phong dưỡng huyết, thanh nhiệt trừ thấp",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Thanh trường chỉ huyết, sơ phong hành khí",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 16
+            },
+            {
+                "questionText": " Bài thuốc nên chỉ định cho BN là",
+                "answerOptions": [
+                    {
+                        "answerText": "Xuyên khung trà điều tán",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Đại tần giao thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tiêu phong tán",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Hòe hoa tán",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 17
+            },
+            {
+                "questionText": " Vị thuốc làm Quân dược trong bài thuốc trên là",
+                "answerOptions": [
+                    {
+                        "answerText": "Xuyên khung",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Bạc hà, kinh giới",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Khương hoạt, bạch chỉ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tế tân, phòng phong",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 18
+            },
+            {
+                "questionText": " Công dụng nào không phải của vị thuốc trên",
+                "answerOptions": [
+                    {
+                        "answerText": "Điều trị mọi loại đau đầu",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Trừ phong hoạt huyết, chỉ thống",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chuyên trị đau đầu kinh Thiếu dương, Quyết âm",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Điều hòa các vị thuốc",
+                        "isCorrect": true
+                    }
+                ],
+                "questionID": 19
+            },
+            {
+                "questionText": " Vị thuốc làm Thần dược trong bài thuốc trên là",
+                "answerOptions": [
+                    {
+                        "answerText": "Xuyên khung",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Bạc hà, kinh giới",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Khương hoạt, bạch chỉ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tế tân, phòng phong",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Câu 21. Đặc điểm không phải của các Thần dược là ?",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Nhẹ mà đi lên",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Sơ phong chỉ thống",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Thanh lợi đầu mắt",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chỉ khái",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 20
+            },
+            {
+                "questionText": " Chống chỉ định của bài thuốc trên là",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng đau đầu do bệnh lâu ngày khí huyết hư hoặc do Can Thận bất túc, dương khí thịnh",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Phong tà trực trúng tạng phủ hoặc nội phong gây bệnh",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Người khí huyết hư nhược",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng tiện huyết do khí hư hoặc âm hư",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 22
+            }
+        ]
+    },
+    {
+        "question_group": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+        ],
+        "question_group_text": "BN nữ, 35 tuổi, nhập viện vì: miệng mắt méo lệch, lưỡi cứng không nói được, tay chân không vận động được, phong tà tản mát trong nhiều đường kinh.",
+        "ques": [
+            {
+                "questionText": " BN có biểu hiện của",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng đau đầu do ngoại cảm phong tà",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Phong tà mới trúng vào kinh lạc",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Phong chẩn, thấp chẩn",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tiện huyết (do phong nhiệt thấp độc)",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 23
+            },
+            {
+                "questionText": " Pháp trị cho BN này",
+                "answerOptions": [
+                    {
+                        "answerText": "Sơ phong chỉ thống",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Trừ phong thanh nhiệt, dưỡng huyết hoạt huyết",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Sơ phong dưỡng huyết, thanh nhiệt trừ thấp",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Thanh trường chỉ huyết, sơ phong hành khí",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 24
+            },
+            {
+                "questionText": " Bài thuốc nên chỉ định cho BN là",
+                "answerOptions": [
+                    {
+                        "answerText": "Xuyên khung trà điều tán",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Đại tần giao thang",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Tiêu phong tán",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Hòe hoa tán",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 25
+            },
+            {
+                "questionText": " Vị thuốc làm Quân dược trong bài thuốc trên là",
+                "answerOptions": [
+                    {
+                        "answerText": "Tần giao",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Khương hoạt, phòng phong",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Bạch chỉ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tế tân, độc hoạt",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 26
+            },
+            {
+                "questionText": " Quân dược bài thuốc này có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "Trừ phong, thông hành kinh lạc",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Tán phong ở kinh Thái dương",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tán phong ở kinh Dương mịnh",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tán phong ở kinh Thiếu âm",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 27
+            },
+            {
+                "questionText": " Vị thuốc không phải là Thần dược trong bài thuốc trên",
+                "answerOptions": [
+                    {
+                        "answerText": "Tần giao",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Khương hoạt, phòng phong",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Bạch chỉ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tế tân, độc hoạt",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 28
+            },
+            {
+                "questionText": " Thần dược bài thuốc này không có tác dụng",
+                "answerOptions": [
+                    {
+                        "answerText": "Trừ phong, thông hành kinh lạc",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Tán phong ở kinh Thái dương",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tán phong ở kinh Dương minh",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tán phong ở kinh Thiếu âm",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 29
+            },
+            {
+                "questionText": " Chống chỉ định của bài thuốc trên là",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng đau đầu do bệnh lâu ngày khí huyết hư hoặc do Can Thận bất túc, dương khí thịnh",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Phong tà trực trúng tạng phủ hoặc nội phong gây bệnh",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Người khí huyết hư nhược",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng tiện huyết do khí hư hoặc âm hư",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 30
+            }
+        ]
+    },
+    {
+        "question_group": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+        ],
+        "question_group_text": "BN nam, 30 tuổi, biểu hiện: da nổi ban chẩn đỏ, hoặc ban chẩn khắp người, sau khi gãi vết thương rỉ dịch, cảm giác ngứa, rêu lưỡi trắng hoặc vàng, mạch phù sác.",
+        "ques": [
+            {
+                "questionText": " BN có biểu hiện của",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng đau đầu do ngoại cảm phong tà",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Phong tà mới trúng vào kinh lạc",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Phong chẩn, thấp chẩn",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Tiện huyết (do phong nhiệt thấp độc)",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 31
+            },
+            {
+                "questionText": " Pháp trị cho BN này",
+                "answerOptions": [
+                    {
+                        "answerText": "Sơ phong chỉ thống",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Trừ phong thanh nhiệt, dưỡng huyết hoạt huyết",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Sơ phong dưỡng huyết, thanh nhiệt trừ thấp",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Thanh trường chỉ huyết, sơ phong hành khí",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 32
+            },
+            {
+                "questionText": " Bài thuốc nên chỉ định cho BN là",
+                "answerOptions": [
+                    {
+                        "answerText": "Xuyên khung trà điều tán",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Đại tần giao thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tiêu phong tán",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Hòe hoa tán",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 33
+            },
+            {
+                "questionText": " Vị thuốc làm Quân dược trong bài thuốc này là",
+                "answerOptions": [
+                    {
+                        "answerText": "Kinh giới, Phòng phong, Ngưu bàng tử, Thuyền thoái",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Thương truật, Khổ sâm, Mộc thông",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Thạch cao, Tri mẫu, Đương quy, Sinh địa, Hồ ma nhân",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Cam thảo sống",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 34
+            },
+            {
+                "questionText": " Công dụng của vị thuốc trên là",
+                "answerOptions": [
+                    {
+                        "answerText": "Tân tán để thông đạt đến tà khí, sơ phong để trừ ngứa",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Trừ phong trừ thấp",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Thanh nhiệt táo thấp",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Thanh lợi thấp nhiệt",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 35
+            },
+            {
+                "questionText": " Vị thuốc nào làm Thần dược trong bài thuốc này",
+                "answerOptions": [
+                    {
+                        "answerText": "Kinh giới, Phòng phong. Ngưu bàng tử, Thuyền thoái",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Thương truật, Khổ sâm, Mộc thông",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Thạch cao, Tri mẫu, Đương quy, Sinh địa, Hồ ma nhân",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Cam thảo sống",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 36
+            },
+            {
+                "questionText": " Công dụng nào không phải của Thần dược trong bài thuốc trên",
+                "answerOptions": [
+                    {
+                        "answerText": "Tân tán để thông đạt đến tà khí",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Trừ phong trừ thấp",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Thanh nhiệt táo thấp",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Thanh lợi thấp nhiệt",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 37
+            },
+            {
+                "questionText": " Chống chỉ định của bài thuốc trên là",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng đau đầu do bệnh lâu ngày khí huyết hư hoặc do Can Thận bất túc, dương khí thịnh",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Phong tà trực trúng tạng phủ hoặc nội phong gây bệnh",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Người khí huyết hư nhược",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Chứng tiện huyết do khí hư hoặc âm hư",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 38
+            }
+        ]
+    },
+    {
+        "question_group": [
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+        ],
+        "question_group_text": "BN nữ 38 tuổi, biểu hiện: sốt cao không giảm, bứt rứt, buồn bực, nóng nảy không yên, nặng thì hôn mê, tay chân co giật, thành chứng kinh quyết, chất lưỡi đỏ thẫm, khô hoặc lưỡi khô nổi gai, mạch huyền sác.",
+        "ques": [
+            {
+                "questionText": " BN này có biểu hiện của",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng Can nhiệt sinh phong",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Chứng Can dương thượng kháng, Can phong nội động",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng Tựa trúng phong",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng âm hư phong động",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 39
+            },
+            {
+                "questionText": " Pháp trị cho BN",
+                "answerOptions": [
+                    {
+                        "answerText": "Lương Can tức phong, tăng dịch thư cân",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Bình Can tức phong, thanh nhiệt hoạt huyết, bổ ích Can Thận",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Trấn Can tức phong, tư âm tiềm dương",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tư âm tức phong",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 40
+            },
+            {
+                "questionText": " Bài thuốc nên chỉ định cho BN là",
+                "answerOptions": [
+                    {
+                        "answerText": "Linh giác câu đằng thang",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Thiên ma câu đằng ẩm",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Trấn Can tức phong thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Đại định phong châu",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 41
+            },
+            {
+                "questionText": " Vị thuốc làm Quân dược trong bài thuốc trên là ?",
+                "answerOptions": [
+                    {
+                        "answerText": "Linh dương giác, Câu đằng",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Tang diệp, Cúc hoa",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Sinh địa, Bạch thược, Xuyên bối mẫu, Trúc nhự, Phục thần",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Cam thảo sống",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 42
+            },
+            {
+                "questionText": " Tác dụng của Quân dược trong bài thuốc là ?",
+                "answerOptions": [
+                    {
+                        "answerText": "Thanh nhiệt lương Can tức phong, thanh nhiệt bình Can, tức phong giải kinh",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Tân lương sơ tiết, thanh nhiệt bình Can ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Lương huyết tư âm, dưỡng âm nhu Can, thanh nhiệt hóa đàm, thông lạc, bình Can, định Tâm, an thần",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Điều hòa các vị thuốc",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 43
+            },
+            {
+                "questionText": " Vị thuốc làm Thần dược trong bài thuốc trên là ?",
+                "answerOptions": [
+                    {
+                        "answerText": "Linh dương giác, Câu đằng",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tang diệp, Cúc hoa",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Sinh địa, Bạch thược, Xuyên bối mẫu, Trúc nhự, Phục thần",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Cam thảo sống",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 44
+            },
+            {
+                "questionText": " Tác dụng của Thần dược trong bài thuốc là ?",
+                "answerOptions": [
+                    {
+                        "answerText": "Thanh nhiệt lương Can tức phong, thanh nhiệt bình Can, tức phong giải kinh",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tân lương sơ tiết, thanh nhiệt bình Can",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Lương huyết tư âm, dưỡng âm nhu Can, thanh nhiệt hóa đàm, thông lạc, bình Can, định Tâm, an thần",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Điều hòa các vị thuốc",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 45
+            },
+            {
+                "questionText": " Chống chỉ định của bài thuốc trên là",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng âm hư hoặc huyết hư sinh phong",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Chứng nhiệt cực động phong",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tất cả đều đúng",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng động phong do âm hư hỏa thịnh",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 46
+            }
+        ]
+    },
+    {
+        "question_group": [
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54
+        ],
+        "question_group_text": "BN nữ 38 tuổi, biểu hiện: đau đầu, chóng mặt, mất ngủ, lưỡi đỏ, rêu vàng, mạch huyền sác.",
+        "ques": [
+            {
+                "questionText": " BN này có biểu hiện của",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng Can nhiệt sinh phong",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng Can dương thượng kháng, Can phong nội động",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Chứng Tựa trúng phong",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng âm hư phong động",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 47
+            },
+            {
+                "questionText": " Pháp trị cho BN",
+                "answerOptions": [
+                    {
+                        "answerText": "Lương Can tức phong, tăng dịch thư cân",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Bình Can tức phong, thanh nhiệt hoạt huyết, bổ ích Can Thận",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Trấn Can tức phong, tư âm tiềm dương",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tư âm tức phong",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 48
+            },
+            {
+                "questionText": " Bài thuốc nên chỉ định cho BN là",
+                "answerOptions": [
+                    {
+                        "answerText": "Linh giác câu đằng thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Thiên ma câu đằng ẩm",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Trấn Can tức phong thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Đại định phong châu",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 49
+            },
+            {
+                "questionText": " Vị thuốc làm Quân dược trong bài thuốc trên là ?",
+                "answerOptions": [
+                    {
+                        "answerText": "Thiên ma, Câu đằng",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Thạch quyết minh, Ngưu tất",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Đỗ trọng, Tang ký sinh, Chi tử, Hoàng cầm",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ích mẫu thảo, Dạ giao đằng, Phục thần",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 50
+            },
+            {
+                "questionText": " Tác dụng của Quân dược trong bài thuốc là ?",
+                "answerOptions": [
+                    {
+                        "answerText": "Bình Can tức phong",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Bình Can tiềm dương, trừ nhiệt làm sáng mắt, bổ ích Can Thận, hoạt huyết lợi thủy ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Bổ ích Can Thận, thanh nhiệt tiết Can hỏa, hoạt huyết lợi thủy, định Tâm an thần",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Phối hợp với Ngưu tất hoạt huyết lợi thủy, bình giáng Can dương",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 51
+            },
+            {
+                "questionText": " Vị thuốc làm Thần dược trong bài thuốc trên là ?",
+                "answerOptions": [
+                    {
+                        "answerText": "Thiên ma, Câu đằng",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Thạch quyết minh, Ngưu tất",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Đỗ trọng, Tang ký sinh, Chi tử, Hoàng cầm",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ích mẫu thảo, Dạ giao đằng, Phục thần",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 52
+            },
+            {
+                "questionText": " Tác dụng của Thần dược trong bài thuốc là ?",
+                "answerOptions": [
+                    {
+                        "answerText": "Bình Can tức phong",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Bình Can tiềm dương, trừ nhiệt làm sáng mắt, bổ ích Can Thận, hoạt huyết lợi thủy ",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Bổ ích Can Thận, thanh nhiệt tiết Can hỏa, hoạt huyết lợi thủy, định Tâm an thần",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Phối hợp với Ngưu tất hoạt huyết lợi thủy, bình giáng Can dương",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 53
+            },
+            {
+                "questionText": " Chống chỉ định của bài thuốc trên là",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng âm hư hoặc huyết hư sinh phong",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng nhiệt cực động phong",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Tất cả đều đúng",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng động phong do âm hư hỏa thịnh",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 54
+            }
+        ]
+    },
+    {
+        "question_group": [
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62
+        ],
+        "question_group_text": "BN nam, 30 tuổi, biểu hiện: hoa mắt, chóng mặt, ù tai, mắt sưng, vùng ngực nóng đau, sắc mặt như say rượu, ngực nóng bứt rứt, hoặc hay ợ hơi, hoặc tay chân dần cảm thấy khó vận động, miệng mắt dần méo lệch, thậm chí chóng mặt té ngã, mê man không biết gì, một lúc mới tỉnh, hoặc tỉnh lại nhưng không còn tỉnh táo, mạch huyền trường, hữu lực.",
+        "ques": [
+            {
+                "questionText": " BN này có biểu hiện của",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng Can nhiệt sinh phong",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng Can dương thượng kháng, Can phong nội động",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng Tựa trúng phong",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Chứng âm hư phong động",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 55
+            },
+            {
+                "questionText": " Pháp trị cho BN",
+                "answerOptions": [
+                    {
+                        "answerText": "Lương Can tức phong, tăng dịch thư cân",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Bình Can tức phong, thanh nhiệt hoạt huyết, bổ ích Can Thận",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Trấn Can tức phong, tư âm tiềm dương",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Tư âm tức phong",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 56
+            },
+            {
+                "questionText": " Bài thuốc nên chỉ định cho BN là",
+                "answerOptions": [
+                    {
+                        "answerText": "Linh giác câu đằng thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Thiên ma câu đằng ẩm",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Trấn Can tức phong thang",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Đại định phong châu",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 57
+            },
+            {
+                "questionText": " Vị thuốc làm Quân dược trong bài thuốc trên là ?",
+                "answerOptions": [
+                    {
+                        "answerText": "Hoài ngưu tất",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Đại giả thạch",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Long cốt, Mẫu lệ, Quy bản, Bạch thược",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Cam thảo",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 58
+            },
+            {
+                "questionText": " Tác dụng không phải của Quân dược trong bài thuốc là ?",
+                "answerOptions": [
+                    {
+                        "answerText": "Dẫn huyết hạ hành",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Bình giáng nghịch khí ",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Bổ ích Can Thận",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Điều hòa các vị thuốc",
+                        "isCorrect": true
+                    }
+                ],
+                "questionID": 59
+            },
+            {
+                "questionText": " Vị thuốc làm Thần dược trong bài thuốc trên là ?",
+                "answerOptions": [
+                    {
+                        "answerText": "Hoài ngưu tất",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Huyền sâm, Thiên môn, Nhân trần, Xuyên luyện tử, Sinh mạch nha",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Đại giả thạch, Long cốt, Mẫu lệ, Quy bản, Bạch thược",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Cam thảo",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 60
+            },
+            {
+                "questionText": " Tác dụng không phải của Thần dược trong bài thuốc là ?",
+                "answerOptions": [
+                    {
+                        "answerText": "Dẫn huyết hạ hành, bình giáng nghịch khí, bổ ích Can Thận",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Trấn Can giáng nghịch",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Phối hợp với Ngưu tất dẫn khí huyết đi xuống, trị phần ngọn của bệnh",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Ích âm tiềm dương, trấn Can tức phong",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 61
+            },
+            {
+                "questionText": " Chống chỉ định của bài thuốc trên là",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng âm hư hoặc huyết hư sinh phong",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng nhiệt cực động phong",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Tất cả đều đúng",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng động phong do âm hư hỏa thịnh",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 62
+            }
+        ]
+    },
+    {
+        "question_group": [
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+        ],
+        "question_group_text": "Bn nam 45 tuổi, có các biểu hiện: ôn bệnh thời kỳ sau, tinh thần mệt mỏi, tay chân co giật, lưỡi đỏ thẫm, rêu ít, mạch nhược có lúc muốn thoát.",
+        "ques": [
+            {
+                "questionText": " BN này có biểu hiện của",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng Can nhiệt sinh phong",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng Can dương thượng kháng, Can phong nội động",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng Tựa trúng phong",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng âm hư phong động",
+                        "isCorrect": true
+                    }
+                ],
+                "questionID": 63
+            },
+            {
+                "questionText": " Pháp trị cho BN",
+                "answerOptions": [
+                    {
+                        "answerText": "Lương Can tức phong, tăng dịch thư cân",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Bình Can tức phong, thanh nhiệt hoạt huyết, bổ ích Can Thận",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Trấn Can tức phong, tư âm tiềm dương",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tư âm tức phong",
+                        "isCorrect": true
+                    }
+                ],
+                "questionID": 64
+            },
+            {
+                "questionText": " Bài thuốc nên chỉ định cho BN là",
+                "answerOptions": [
+                    {
+                        "answerText": "Linh giác câu đằng thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Thiên ma câu đằng ẩm",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Trấn Can tức phong thang",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Đại định phong châu",
+                        "isCorrect": true
+                    }
+                ],
+                "questionID": 65
+            },
+            {
+                "questionText": " Vị thuốc làm Quân dược trong bài thuốc trên là ?",
+                "answerOptions": [
+                    {
+                        "answerText": "Kê tử hoàng, A giao",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Sinh bạch thược",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Can địa hoàng",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Mạch môn",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 66
+            },
+            {
+                "questionText": " Tác dụng của Quân dược trong bài thuốc là ?",
+                "answerOptions": [
+                    {
+                        "answerText": "Tư âm dưỡng dịch để trừ phong",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Tư thủy hàm mộc, nhu Can nhuận cân",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tư âm tiềm dương, trọng trấn tức phong, dưỡng âm nhuận táo, thu liễm chân âm, hóa âm",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Điều hòa các vị thuốc",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 67
+            },
+            {
+                "questionText": " Vị thuốc không phải là Thần dược trong bài thuốc trên là ?",
+                "answerOptions": [
+                    {
+                        "answerText": "Kê tử hoàng, A giao",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Sinh bạch thược",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Can địa hoàng",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Mạch môn",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 68
+            },
+            {
+                "questionText": " Tác dụng của Thần dược trong bài thuốc là ?",
+                "answerOptions": [
+                    {
+                        "answerText": "Tư âm dưỡng dịch để trừ phong",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tư thủy hàm mộc, nhu Can nhuận cân",
+                        "isCorrect": true
+                    },
+                    {
+                        "answerText": "Tư âm tiềm dương, trọng trấn tức phong, dưỡng âm nhuận táo, thu liễm chân âm, hóa âm",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Điều hòa các vị thuốc",
+                        "isCorrect": false
+                    }
+                ],
+                "questionID": 69
+            },
+            {
+                "questionText": " Chống chỉ định của bài thuốc trên là",
+                "answerOptions": [
+                    {
+                        "answerText": "Chứng âm hư hoặc huyết hư sinh phong",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng nhiệt cực động phong",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Tất cả đều đúng",
+                        "isCorrect": false
+                    },
+                    {
+                        "answerText": "Chứng động phong do âm hư hỏa thịnh",
+                        "isCorrect": true
+                    }
+                ],
+                "questionID": 70
+            }
+        ]
+    }
+]

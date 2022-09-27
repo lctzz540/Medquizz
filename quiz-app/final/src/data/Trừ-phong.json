@@ -1,0 +1,310 @@
+[
+    {
+        "questionText": " Vị thuốc đóng vai trò Quân dược trong bài Đại tần giao thang là ?",
+        "answerOptions": [
+            {
+                "answerText": "Khương hoạt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tần giao",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Bạch chỉ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Phòng phong",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 1
+    },
+    {
+        "questionText": " Bài thuốc Tiêu phong tán có công dụng ?",
+        "answerOptions": [
+            {
+                "answerText": "Sơ phong dưỡng huyết, thanh nhiệt trừ thấp",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Lương Can tức phong, tăng dịch thư cân",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Khu phong thanh nhiệt, dưỡng huyết hoạt huyết",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Khu phong tán hàn, ích khí ôn dương",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 2
+    },
+    {
+        "questionText": " Trong phương Tiêu phong tán, các vị thuốc đóng vai trò Quân dược có tác dụng ?",
+        "answerOptions": [
+            {
+                "answerText": "Thanh nhiệt táo thấp",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Bổ khí dưỡng huyết kiện Tỳ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hoạt huyết, trừ hàn thấp",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sơ phong trừ ngứa",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 3
+    },
+    {
+        "questionText": " Trong bài Linh giác câu đằng thang, vị Sinh địa và Bạch thược phối ngũ nhau nhằm ?",
+        "answerOptions": [
+            {
+                "answerText": "Thanh nhiệt lương Can, tức phong chỉ kinh",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tân lương sơ tiết, tăng tác dụng thanh nhiệt tức phong",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Dưỡng âm sinh tân dịch để bình Can",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Bổ âm huyết, giúp định Tâm an thần",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 4
+    },
+    {
+        "questionText": "  Phương thuốc nào sau đây chủ trị phong tà mới trúng vào kinh lạc, miệng mắt méo lệch, lưỡi cứng, tay chân không vận động được, phong tà tản mát khắp cơ thể ?",
+        "answerOptions": [
+            {
+                "answerText": "Đại sài hồ thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Nhân sâm bại độc tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sài hồ sơ Can tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đại tần giao thang",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 5
+    },
+    {
+        "questionText": " Phương thuốc nào sau đây không thuộc nhóm Sơ tán ngoại phong ?",
+        "answerOptions": [
+            {
+                "answerText": "Tiểu tục mệnh thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đại tần giao thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tiêu phong tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tiểu sài hồ thang",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 6
+    },
+    {
+        "questionText": " Chủ trị ngoại cảm phong tà đầu thống là của phương thuốc nào sau đây ?",
+        "answerOptions": [
+            {
+                "answerText": "Đại tần giao thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Nhân sâm bại độc tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Khiên chính tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Xuyên khung trà điều tán",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 7
+    },
+    {
+        "questionText": " Vị thuốc đóng vai trò Quân dược trong bài Trấn Can tức phong thang là ?",
+        "answerOptions": [
+            {
+                "answerText": "Long cốt, Mẫu lệ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "A giao, Kê tử hoàng",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ngưu tất",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Linh dương giác",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 8
+    },
+    {
+        "questionText": " Trong phương Đại định phong châu, các vị Sinh bạch thược, Can địa hoàng, Mạch môn phối ngũ nhau nhằm ?",
+        "answerOptions": [
+            {
+                "answerText": "Tư âm tăng dịch hóa đàm để trừ nội phong",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tư thủy hàm mộc, nhu Can nhuận cân",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tư âm tiềm dương, trọng trấn tức phong",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tư âm bổ huyết kiện Tỳ ích khí",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 9
+    },
+    {
+        "questionText": " Phương thuốc nào sau đây có công dụng bình Can tức phong, thanh nhiệt hoạt huyết, bổ ích Can Thận ?",
+        "answerOptions": [
+            {
+                "answerText": "Thiên ma câu đằng ẩm",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Phòng phogn thông thánh tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thiên thai ô dược tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Bình can tức phong thang",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 10
+    },
+    {
+        "questionText": " Phương thuốc trừ phong bao gồm các nhóm thuốc nào sau đây ?",
+        "answerOptions": [
+            {
+                "answerText": "Sơ tán ngoại phong",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Bình  tức nội phong",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Cả 2 đều đúng",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Cả 2 đều sai",
+                "isCorrect": false
+            }
+        ],
+        "questionID": 11
+    },
+    {
+        "questionText": " Bài thuốc nào sau đây không thuộc nhóm sơ tán ngoại phong ?",
+        "answerOptions": [
+            {
+                "answerText": "Xuyên khung trà điều tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đại tần giao thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tiêu phong tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tiêu dao tán",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 12
+    },
+    {
+        "questionText": " Bài thuốc nào sau đây thuộc nhóm bình tức nội phong ?",
+        "answerOptions": [
+            {
+                "answerText": "Linh giác câu đằng thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thiên ma câu đằng ẩm",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Trấn Can tức phong thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Phòng phong thông thánh tán",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 13
+    },
+    {
+        "questionText": " Bài thuốc nào sau đây không thuộc nhóm bình tức nội phong ?",
+        "answerOptions": [
+            {
+                "answerText": "Đại sài hồ thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tiểu sài hồ thang",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ngũ tích tán",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đại định phong châu",
+                "isCorrect": true
+            }
+        ],
+        "questionID": 14
+    }
+]

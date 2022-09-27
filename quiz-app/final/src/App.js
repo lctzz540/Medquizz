@@ -34,15 +34,17 @@ export default function App() {
               <option value='60'>60</option>
               <option value='90'>90</option>
             </select>
-            <div
-              style={{
-                display: 'inline-flex',
-                paddingTop: '40px',
-              }}
-            >
-              <button onClick={() => setClock(true)}>Time On</button>
-              <button onClick={() => setClock(false)}>Time Off</button>
-            </div>
+            {numberOfQuestions && (
+              <div
+                style={{
+                  display: 'inline-flex',
+                  paddingTop: '40px',
+                }}
+              >
+                <button onClick={() => setClock(true)}>Time On</button>
+                <button onClick={() => setClock(false)}>Time Off</button>
+              </div>
+            )}
           </form>
         </div>
       )}
