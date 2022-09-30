@@ -5,6 +5,7 @@ import { questions } from './data/questions.js'
 export default function App() {
   const [numberOfQuestions, setNumberOfQuestions] = useState()
   const [clock, setClock] = useState()
+  const [questionList, setQuestionList] = useState()
 
   const handleChange = (e) => {
     setNumberOfQuestions(e.target.value)
@@ -12,8 +13,26 @@ export default function App() {
   const settime =
     numberOfQuestions === '30' ? 20 : numberOfQuestions === '60' ? 45 : 60
   const handleChangeSubject = (e) => e.target.value
-  const questionList = useMemo(
-    () => questions.sort(() => Math.random() - 0.5).slice(0, numberOfQuestions),
+  const _ = require('lodash')
+  const deepShuffle = (arr) => {
+    if (!arr || arr.length) {
+      return _.shuffle(arr).map((a) => {
+        if (a.answerOptions) {
+          a.answerOptions = deepShuffle(a.answerOptions)
+        }
+        return a
+      })
+    }
+    return arr
+  }
+  useMemo(
+    () =>
+      setQuestionList(
+        deepShuffle(questions
+          .sort(() => Math.random() - 0.5)
+          .slice(0, numberOfQuestions)
+          
+      )),
     [numberOfQuestions]
   )
   return (

@@ -5,11 +5,12 @@ import phuongthuocsonggiaibieuly from './Phương-thuốc-song-giải-biê�
 import thanhnhiet from './Thanh-nhiệt.json'
 import truphong from './Trừ-phong.json'
 
-export const questions = [].concat(
-  daicuong,
-  giaibieu,
-  taha,
-  phuongthuocsonggiaibieuly,
-  thanhnhiet,
-  truphong
-)
+export const questions = []
+  .concat(
+    daicuong,
+    giaibieu,
+    taha,
+    phuongthuocsonggiaibieuly,
+    thanhnhiet,
+    truphong
+  )

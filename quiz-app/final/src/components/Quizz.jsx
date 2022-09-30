@@ -9,6 +9,7 @@ const Quizz = (props) => {
   const [score, setScore] = useState(0)
   const [wrongAnswer, setWrongAnswer] = useState([])
   const [timeLeft, setTimeLeft] = useState(props.time)
+
   const handleAnswerOptionClick = (isCorrect) => {
     if (isCorrect) {
       setScore(score + 1)
