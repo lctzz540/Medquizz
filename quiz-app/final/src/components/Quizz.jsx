@@ -10,7 +10,7 @@ const Quizz = (props) => {
   const [wrongAnswer, setWrongAnswer] = useState([])
   const [timeLeft, setTimeLeft] = useState(props.time)
 
-  const handleAnswerOptionClick = (isCorrect) => {
+  const handleAnswerOptionClick = (isCorrect, Text) => {
     if (isCorrect) {
       setScore(score + 1)
     } else {
@@ -21,6 +21,7 @@ const Quizz = (props) => {
             questions[currentQuestion].answerOptions.find(
               (element) => element.isCorrect === true
             ).answerText,
+            Text
           ],
         ])
       )
@@ -64,7 +65,12 @@ const Quizz = (props) => {
           <div className='answer-section'>
             {questions[currentQuestion].answerOptions.map((answerOption) => (
               <button
-                onClick={() => handleAnswerOptionClick(answerOption.isCorrect)}
+                onClick={() =>
+                  handleAnswerOptionClick(
+                    answerOption.isCorrect,
+                    answerOption.answerText
+                  )
+                }
               >
                 {answerOption.answerText}
               </button>
