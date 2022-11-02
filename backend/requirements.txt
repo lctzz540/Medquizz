@@ -1,0 +1,8 @@
+aiofiles==22.1.0
+anyio==3.6.1
+fastapi==0.85.0
+pymongo==4.2.0
+python-docx==0.8.11
+python-multipart==0.0.5
+uvicorn==0.18.3
+gunicorn==20.1.0
